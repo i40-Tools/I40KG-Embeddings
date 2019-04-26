@@ -2229,11 +2229,9 @@ _:b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/
 <https://w3id.org/i40/sto#hasDeveloper> <http://purl.org/dc/terms/creator> <https://w3id.org/i40/sto#irlan> .
 <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> <http://www.w3.org/2000/01/rdf-schema#label> "has numerical value"@en .
-<http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> <http://www.w3.org/2000/01/rdf-schema#domain> _:genid-9705366b18194de9a2dcb5bbab39c385-node1c3sfjt7fx47 .
 <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.ontology-of-units-of-measure.org/resource/om-2/Unit> .
 <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.w3.org/2000/01/rdf-schema#label> "has unit"@en .
-<http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> <http://www.w3.org/2000/01/rdf-schema#domain> _:genid-9705366b18194de9a2dcb5bbab39c385-node1c3sfjt7fx13 .
 <https://w3id.org/i40/sto#Concern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <https://w3id.org/i40/sto#Concern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#class> .
 <https://w3id.org/i40/sto#Concern> <http://www.w3.org/2000/01/rdf-schema#comment> "A concern regards a specific challenge or topic as defined by ISO42010. Each concern should at least be regarded by one view of an architecture."@en .
