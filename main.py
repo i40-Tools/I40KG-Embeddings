@@ -19,17 +19,19 @@ print(pykeen.get_version())
 output_directory = './logs'
 
 config = dict(
-    training_set_path           = './sto/sto.nt',
+    training_set_path           = './nt/rdf.nt',
     execution_mode              = 'Training_mode',
     random_seed                 = 0,
-    kg_embedding_model_name     = 'TransH',
+    kg_embedding_model_name     = 'TransE',
     embedding_dim               = 50,
-    scoring_function            = 2,  # corresponds to L2
-    margin_loss                 = 0.05,
-    weigthing_soft_constraint   = 0.015625,
+    scoring_function            = 1,  # corresponds to L1
+    normalization_of_entities   = 2,  # corresponds to L2
+    margin_loss                 = 1,
     learning_rate               = 0.01,
-    num_epochs                  = 10,
+    num_epochs                  = 30,
     batch_size                  = 64,
+    test_set_ratio              = 0.1, # 10% of training set will be used as a test set
+    filter_negative_triples     = True,
     preferred_device            = 'gpu'
 )
 
