@@ -16,10 +16,10 @@ print(sys.version)
 print(time.asctime())
 print(pykeen.get_version())
 
-output_directory = './logs'
+output_directory = './logs_sto'
 
 config = dict(
-    training_set_path           = './nt/rdf.nt',
+    training_set_path           = './sto/sto.nt',
     execution_mode              = 'Training_mode',
     random_seed                 = 0,
     kg_embedding_model_name     = 'TransE',
