@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pykeen
 from pykeen.kge_models import TransE
 
-%matplotlib inline
+#%matplotlib inline
 
 logging.basicConfig(level=logging.INFO)
 logging.getLogger('pykeen').setLevel(logging.INFO)
