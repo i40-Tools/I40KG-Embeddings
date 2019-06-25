@@ -20,7 +20,7 @@ print(pykeen.get_version())
 output_directory = './embeddings/ConvE'
 
 config = dict(
-    training_set_path           = '../../tests/resources/data/rdf.nt',
+    training_set_path           = './sto/sto.nt',
     execution_mode              = 'Training_mode',
     random_seed                 = 0,
     kg_embedding_model_name     = 'ConvE',
