@@ -8,7 +8,7 @@
   "normalization_of_entities": 2,
   "margin_loss": 1,
   "learning_rate": 0.01,
-  "num_epochs": 30,
+  "num_epochs": 100,
   "batch_size": 64,
   "test_set_ratio": 0.1,
   "filter_negative_triples": true,
