@@ -36,7 +36,7 @@ config = dict(
     conv_e_output_dropout       = 0.5,
     margin_loss                 = 1,
     learning_rate               = 0.01,
-    num_epochs                  = 20,
+    num_epochs                  = 100,
     batch_size                  = 64,
     preferred_device            = 'gpu'
 )

@@ -29,7 +29,7 @@ config = dict(
     scoring_function            = 2,  # corresponds to L2
     margin_loss                 = 0.05,
     learning_rate               = 0.01,
-    num_epochs                  = 10,
+    num_epochs                  = 100,
     batch_size                  = 64,
     preferred_device            = 'gpu'
 )

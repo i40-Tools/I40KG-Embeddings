@@ -29,7 +29,7 @@ config = dict(
     margin_loss                 = 0.05,
     weighting_soft_constraint   = 0.015625,
     learning_rate               = 0.01,
-    num_epochs                  = 10,
+    num_epochs                  = 100,
     batch_size                  = 64,
     preferred_device            = 'gpu'
 )
