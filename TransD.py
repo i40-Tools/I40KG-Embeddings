@@ -17,10 +17,10 @@ print(sys.version)
 print(time.asctime())
 print(pykeen.get_version())
 
-output_directory = './embeddings/TransD'
+output_directory = './embeddings/TransD/sto-enriched'
 
 config = dict(
-    training_set_path           = './sto/sto.nt',
+    training_set_path           = './sto/sto-enriched.nt',
     execution_mode              = 'Training_mode',
     random_seed                 = 0,
     kg_embedding_model_name     = 'TransD',

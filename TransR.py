@@ -19,10 +19,10 @@ print(pykeen.get_version())
 
 print(TransR.hyper_params)
 
-output_directory = './embeddings/TransR'
+output_directory = './embeddings/TransR/sto-enriched'
 
 config = dict(
-    training_set_path       = './sto/sto.nt',
+    training_set_path       = './sto/sto-enriched.nt',
     execution_mode          = 'Training_mode',
     random_seed             = 0,
     kg_embedding_model_name = 'TransR',
