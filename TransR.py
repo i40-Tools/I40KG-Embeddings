@@ -6,7 +6,7 @@ import time
 import numpy as np
 import matplotlib.pyplot as plt
 import pykeen
-from pykeen.kge_models import TransH
+from pykeen.kge_models import TransR
 
 #%matplotlib inline
 
@@ -17,23 +17,23 @@ print(sys.version)
 print(time.asctime())
 print(pykeen.get_version())
 
-print(TransH.hyper_params)
+print(TransR.hyper_params)
 
-output_directory = './embeddings/TransH/sto-enriched'
+output_directory = './embeddings/TransR/sto-enriched'
 
 config = dict(
-    training_set_path           = './sto/sto-enriched.nt',
-    execution_mode              = 'Training_mode',
-    random_seed                 = 0,
-    kg_embedding_model_name     = 'TransH',
-    embedding_dim               = 50,
-    scoring_function            = 2,  # corresponds to L2
-    margin_loss                 = 0.05,
-    weighting_soft_constraint   = 0.015625,
-    learning_rate               = 0.01,
-    num_epochs                  = 100,
-    batch_size                  = 64,
-    preferred_device            = 'gpu'
+    training_set_path       = './sto/sto-enriched.nt',
+    execution_mode          = 'Training_mode',
+    random_seed             = 0,
+    kg_embedding_model_name = 'TransR',
+    embedding_dim           = 50,
+    relation_embedding_dim  = 20,
+    scoring_function        = 2,  # corresponds to L2
+    margin_loss             = 0.05,
+    learning_rate           = 0.01,
+    num_epochs              = 100,
+    batch_size              = 64,
+    preferred_device        = 'gpu'
 )
 
 print('Starting the training...')
