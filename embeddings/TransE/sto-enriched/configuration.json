@@ -13,6 +13,6 @@
   "test_set_ratio": 0.1,
   "filter_negative_triples": true,
   "preferred_device": "gpu",
-  "num_entities": 8690,
-  "num_relations": 111
+  "num_entities": 8929,
+  "num_relations": 107
 }

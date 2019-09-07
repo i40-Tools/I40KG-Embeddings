@@ -11,6 +11,6 @@
   "num_epochs": 100,
   "batch_size": 64,
   "preferred_device": "gpu",
-  "num_entities": 8690,
-  "num_relations": 111
+  "num_entities": 8929,
+  "num_relations": 107
 }
