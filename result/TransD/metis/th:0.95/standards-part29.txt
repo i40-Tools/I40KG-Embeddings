@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_61850_P7_S1_E1
+https://w3id.org/i40/sto#IEC_61400_P25_S5_E2
+https://w3id.org/i40/sto#ISO_9594
+https://w3id.org/i40/sto#IEC_60839_P7_S5_E1
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#ETSI_ULE
+https://w3id.org/i40/sto#IEEE_1888-3-2013
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#ISO_PAS_17506
+https://w3id.org/i40/sto#DIN_SPEC_92222

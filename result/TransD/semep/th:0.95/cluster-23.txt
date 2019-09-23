@@ -1,0 +1,12 @@
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#ISO_61508
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#DIN_77005_P1
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#ISA_62443
+https://w3id.org/i40/sto#IEC_61850_P7_S1_E1
+https://w3id.org/i40/sto#ISO_15531-4x
+https://w3id.org/i40/sto#IEC_60870_P6_S502_1995

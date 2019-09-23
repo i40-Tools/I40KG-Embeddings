@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#IEC_60870_P6_S501_E1
+https://w3id.org/i40/sto#ISO_15408
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#IEC_61970_P452_E3
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#BBF_TR-069

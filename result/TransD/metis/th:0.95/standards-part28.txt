@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_61506
+https://w3id.org/i40/sto#IEC_60870_P5_S104_E2_1
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#IEC_60870_P5_S6_E1
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#RFC_6750
+https://w3id.org/i40/sto#RFC_7252
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#X509
+https://w3id.org/i40/sto#BBF_TR-069

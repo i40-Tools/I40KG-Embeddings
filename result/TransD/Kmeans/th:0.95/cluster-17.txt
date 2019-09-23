@@ -1,0 +1,13 @@
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#IEC_61970_P301_E6_RLV
+https://w3id.org/i40/sto#IEC_60364
+https://w3id.org/i40/sto#IEC_61970_P301_E4
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#ISO_ASTM_52915
+https://w3id.org/i40/sto#IEC_60204_P11_E1
+https://w3id.org/i40/sto#IEC_61804
+https://w3id.org/i40/sto#W3C_RDF
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#IEC_61968_P3_E1

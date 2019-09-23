@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#UDP
+https://w3id.org/i40/sto#IEC_61310_P2_E2
+https://w3id.org/i40/sto#IEC_62279
+https://w3id.org/i40/sto#IEC_62237
+https://w3id.org/i40/sto#IEC_15408
+https://w3id.org/i40/sto#RFC_7540
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#IEC_61400_P25_S6_E2
+https://w3id.org/i40/sto#IEC_61334_P3_S1_E1
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E1

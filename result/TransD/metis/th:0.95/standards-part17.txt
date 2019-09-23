@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#IEC_60050_2013
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_15408
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_60870_P6_S802_E3
+https://w3id.org/i40/sto#IEC_60204_P11_E1
+https://w3id.org/i40/sto#UDP
