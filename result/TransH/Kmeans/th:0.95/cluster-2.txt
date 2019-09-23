@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#IEC_60050_1984
+https://w3id.org/i40/sto#ISO_19770
+https://w3id.org/i40/sto#IEC_61400_P25_S6_E2
+https://w3id.org/i40/sto#IEEE_1377-2012
+https://w3id.org/i40/sto#IEEE_42010
+https://w3id.org/i40/sto#ODRL
+https://w3id.org/i40/sto#ISO_27000

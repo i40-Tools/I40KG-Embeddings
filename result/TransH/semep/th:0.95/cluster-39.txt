@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#IEC_61970_P301_E1
+https://w3id.org/i40/sto#IEC_61970_P301_E4
+https://w3id.org/i40/sto#IEC_62591
+https://w3id.org/i40/sto#DIN_SPEC_16593_P1
+https://w3id.org/i40/sto#IEC_61970_P301_E2
+https://w3id.org/i40/sto#IEC_61970_P301_E3

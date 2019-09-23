@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#ISO_11783

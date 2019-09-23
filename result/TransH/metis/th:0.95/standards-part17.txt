@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#DTLS
+https://w3id.org/i40/sto#RFC_7644
+https://w3id.org/i40/sto#RFC_2818
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#IEEE_1856
+https://w3id.org/i40/sto#ISO_29161
+https://w3id.org/i40/sto#OAGIS
+https://w3id.org/i40/sto#VDMA_24582

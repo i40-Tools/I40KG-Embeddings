@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#IEEE_1377-2012
+https://w3id.org/i40/sto#IEEE_42010
+https://w3id.org/i40/sto#ODRL

@@ -1,0 +1,5 @@
+https://w3id.org/i40/sto#IEEE_1905_1-2013
+https://w3id.org/i40/sto#ISO_9000
+https://w3id.org/i40/sto#NIST_500-292
+https://w3id.org/i40/sto#ISO_29134
+https://w3id.org/i40/sto#ISO_20547-3

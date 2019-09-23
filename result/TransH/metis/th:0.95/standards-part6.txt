@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#IEC_60864_P1_E1
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#IEC_60381_P1_E2
+https://w3id.org/i40/sto#IEEE_1451
+https://w3id.org/i40/sto#IEC_60255_P151_E1
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#BPEL

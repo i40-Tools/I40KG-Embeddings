@@ -1,0 +1,2 @@
+https://w3id.org/i40/sto#DIN_SPEC_91345
+https://w3id.org/i40/sto#RFC_7642

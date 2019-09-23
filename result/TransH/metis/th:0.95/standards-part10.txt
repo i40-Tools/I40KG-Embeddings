@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#IEC_61970_P301_E1
+https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
+https://w3id.org/i40/sto#RFC_1122
+https://w3id.org/i40/sto#IEC_61400_P25_S1_E2
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#RFC_7252
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#NIST_500-291
