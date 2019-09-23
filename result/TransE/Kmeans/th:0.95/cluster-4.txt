@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#IEC_60255_P27_E2
+https://w3id.org/i40/sto#RFC_7252
+https://w3id.org/i40/sto#IEC_60050_1998
+https://w3id.org/i40/sto#IEC_61987_X
+https://w3id.org/i40/sto#ISO_TS_14649-201
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#RFC_6750

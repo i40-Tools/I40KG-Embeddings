@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#ISO_24760
+https://w3id.org/i40/sto#IEC_29100
+https://w3id.org/i40/sto#IEC_61360
+https://w3id.org/i40/sto#MTConnect
+https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#IEC_60204_P11_E1
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#ISO_18828-2

@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#RFC_7642
+https://w3id.org/i40/sto#IEC_60086
+https://w3id.org/i40/sto#IEC_62832
+https://w3id.org/i40/sto#MathML
+https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
+https://w3id.org/i40/sto#IEC_61400
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#IEC_11404
+https://w3id.org/i40/sto#IEC_60839_P7_S3_E1

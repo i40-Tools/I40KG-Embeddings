@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61850_P10_E1
+https://w3id.org/i40/sto#IEC_61850_P4_E1
+https://w3id.org/i40/sto#DTLS
+https://w3id.org/i40/sto#IEC_61968_P6_E1
+https://w3id.org/i40/sto#ISO_20547-3
+https://w3id.org/i40/sto#IEC_61970_P452_E2
+https://w3id.org/i40/sto#ISO_20547-4
+https://w3id.org/i40/sto#IEC_61810_P7_E2
+https://w3id.org/i40/sto#IEC_61334_P3_S1_E1

@@ -1,0 +1,12 @@
+https://w3id.org/i40/sto#RFC_1122
+https://w3id.org/i40/sto#IEC_61970_P452_E3
+https://w3id.org/i40/sto#IEC_60286_P5_E3
+https://w3id.org/i40/sto#ISO_ASTM_52915
+https://w3id.org/i40/sto#ISO_14306
+https://w3id.org/i40/sto#ISA_62443
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#ISO_18629
+https://w3id.org/i40/sto#IEC_60839_P7_S2_E1
+https://w3id.org/i40/sto#ETSI_DECT
