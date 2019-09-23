@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_60864_P1_E1
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#Thread
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#IEC_29100
+https://w3id.org/i40/sto#IEC_61400
+https://w3id.org/i40/sto#RFC_2818
+https://w3id.org/i40/sto#IEC_62337
+https://w3id.org/i40/sto#DIN_SPEC_91345

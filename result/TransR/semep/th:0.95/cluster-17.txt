@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#ISO_15531-3x
+https://w3id.org/i40/sto#ISO_13485
+https://w3id.org/i40/sto#TS-0009
+https://w3id.org/i40/sto#ISO_20547-4
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#ISO_15531-4x
+https://w3id.org/i40/sto#ETSI_ULE

@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#ISO_20140_P1
+https://w3id.org/i40/sto#NIST_800-144
+https://w3id.org/i40/sto#IEC_11404
+https://w3id.org/i40/sto#IEC_62837
+https://w3id.org/i40/sto#IEC_42010
+https://w3id.org/i40/sto#IEC_60038_E7
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#UDP

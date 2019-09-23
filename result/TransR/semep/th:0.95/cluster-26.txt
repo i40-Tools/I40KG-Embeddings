@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEEE_1856
+https://w3id.org/i40/sto#IEC_61968_P4_E2
+https://w3id.org/i40/sto#IEC_61970_P301_E3
+https://w3id.org/i40/sto#ISO_29161
+https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#RFC_793
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#NIST_500-292

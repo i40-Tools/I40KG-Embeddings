@@ -1,0 +1,2 @@
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E2

@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#ISO_27000
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#ISO_15459
+https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
+https://w3id.org/i40/sto#ISO_16739
+https://w3id.org/i40/sto#ISO_15531-3x
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61499

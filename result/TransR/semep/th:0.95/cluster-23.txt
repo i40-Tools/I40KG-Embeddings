@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#OAGIS
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#DIN_EN_50155
+https://w3id.org/i40/sto#IEC_PAS_63088
+https://w3id.org/i40/sto#IEC_60848_E3

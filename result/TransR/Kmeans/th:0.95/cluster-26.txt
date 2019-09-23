@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#ISO_29134
+https://w3id.org/i40/sto#IEC_60870_P6_S501_E1
+https://w3id.org/i40/sto#IEC_60050_2013

@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#IEC_61968_P6_E1
+https://w3id.org/i40/sto#ISO_27000
+https://w3id.org/i40/sto#ISO_15704
+https://w3id.org/i40/sto#IEC_61968_P3_E2
+https://w3id.org/i40/sto#ISO_20547-4
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#IEC_61970_P301_E4
+https://w3id.org/i40/sto#IEC_29182-1
