@@ -1,4 +1,0 @@
-https://w3id.org/i40/sto#RFC_2818
-https://w3id.org/i40/sto#RFC_7540
-https://w3id.org/i40/sto#ISO_29115
-https://w3id.org/i40/sto#RFC_7519

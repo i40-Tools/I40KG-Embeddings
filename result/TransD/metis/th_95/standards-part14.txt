@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#OAGIS
+https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#IEC_60870_P6_S701_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#IEC_61508
+https://w3id.org/i40/sto#DTLS
+https://w3id.org/i40/sto#ISO_29161
+https://w3id.org/i40/sto#ISO_19770
+https://w3id.org/i40/sto#IEC_60050_1984

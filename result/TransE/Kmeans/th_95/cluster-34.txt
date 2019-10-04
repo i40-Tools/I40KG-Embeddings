@@ -1,6 +1,8 @@
-https://w3id.org/i40/sto#IEC_29182_P1
-https://w3id.org/i40/sto#IEC_61158
-https://w3id.org/i40/sto#IEC_60870_P5_S1_E1
-https://w3id.org/i40/sto#ISO_15459
+https://w3id.org/i40/sto#W3C_SPARQL
+https://w3id.org/i40/sto#ISO_61508
+https://w3id.org/i40/sto#DIN_SPEC_91345
+https://w3id.org/i40/sto#IEC_61334_P5_S1_E2
 https://w3id.org/i40/sto#IEC_60870_P5_S104_E2_1
-https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#IEC_61970_P301_E2
+https://w3id.org/i40/sto#ISO_19770

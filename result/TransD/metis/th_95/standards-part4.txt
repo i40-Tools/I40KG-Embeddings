@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#DIN_EN_50159
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#ISO_19440
+https://w3id.org/i40/sto#ISO_22745-11
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#IEC_60255_P151_E1
+https://w3id.org/i40/sto#IEC_61968_P3_E1
+https://w3id.org/i40/sto#IEC_60027_P6_E1
+https://w3id.org/i40/sto#IEC_81714
+https://w3id.org/i40/sto#IEC_61968_P4_E1

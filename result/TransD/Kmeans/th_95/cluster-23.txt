@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_61850_P4_E2
+https://w3id.org/i40/sto#MathML
+https://w3id.org/i40/sto#IEC_60381_P1_E2
+https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#IEC_60870_P2_S2_E1
+https://w3id.org/i40/sto#ISO_26262
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#IEC_60870_P5_S6_E1
+https://w3id.org/i40/sto#IEC_62264_P6
+https://w3id.org/i40/sto#IEC_60839_P7_S3_E1

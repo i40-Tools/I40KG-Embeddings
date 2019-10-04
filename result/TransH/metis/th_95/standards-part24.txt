@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61784
-https://w3id.org/i40/sto#W3C_DCAT
-https://w3id.org/i40/sto#IEC_61158
-https://w3id.org/i40/sto#IEC_29182_P1
-https://w3id.org/i40/sto#OMG_DDS
-https://w3id.org/i40/sto#W3C_SPARQL
-https://w3id.org/i40/sto#RFC_7519
-https://w3id.org/i40/sto#ISO_26262

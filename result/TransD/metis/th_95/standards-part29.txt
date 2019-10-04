@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#ISO_8062-4
+https://w3id.org/i40/sto#IEC_29182-1
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#IEC_61334_P4_S42_E1
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#IEC_62264_P6
+https://w3id.org/i40/sto#DIN_SPEC_27070
+https://w3id.org/i40/sto#IEC_60870_P5_S103_E1

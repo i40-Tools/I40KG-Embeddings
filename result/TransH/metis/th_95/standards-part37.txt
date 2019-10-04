@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E1
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#IEC_61850
-https://w3id.org/i40/sto#IEC_62061
-https://w3id.org/i40/sto#IEC_61850_P7_S4_E2
-https://w3id.org/i40/sto#IEC_61850_P7_S2_E1
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#IEC_61970_P301_E3

@@ -1,9 +1,9 @@
-https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
-https://w3id.org/i40/sto#IEC_60364
-https://w3id.org/i40/sto#IEC_29190
-https://w3id.org/i40/sto#OAGIS
-https://w3id.org/i40/sto#ISO_5459
-https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#IEC_60255_P27_E2
+https://w3id.org/i40/sto#IEC_60870_P2_S2_E1
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#IEC_61970_P301_E4
+https://w3id.org/i40/sto#IEC_60381_P2_E1
+https://w3id.org/i40/sto#ISO_11404
 https://w3id.org/i40/sto#IEC_61970_P301_E1
-https://w3id.org/i40/sto#IEC_60286_P4_E3
-https://w3id.org/i40/sto#IEC_62337
+https://w3id.org/i40/sto#IEC_60870_P6_S802_E3
+https://w3id.org/i40/sto#IEC_61810_P7_E2

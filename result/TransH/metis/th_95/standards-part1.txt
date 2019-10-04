@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#DIN_EN_50159
-https://w3id.org/i40/sto#ISO_15531-2x
-https://w3id.org/i40/sto#ISO_15531-3x
-https://w3id.org/i40/sto#ISO_20140_P1
-https://w3id.org/i40/sto#ISO_29190
-https://w3id.org/i40/sto#ISO_15531
-https://w3id.org/i40/sto#ISO_29100

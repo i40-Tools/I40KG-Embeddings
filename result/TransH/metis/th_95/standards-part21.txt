@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_60050_1984
-https://w3id.org/i40/sto#IEC_61400_P25_S6_E2
-https://w3id.org/i40/sto#SCOR
-https://w3id.org/i40/sto#IEC_60050_2013
-https://w3id.org/i40/sto#W3C_RDF
-https://w3id.org/i40/sto#DIN_SPEC_27070
-https://w3id.org/i40/sto#ISO_27000
-https://w3id.org/i40/sto#IEC_61506

@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ISO_29101
+https://w3id.org/i40/sto#NIST_500-293
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#ISO_18828-2
+https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#ISO_15531-4x
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#IEC_61513
+https://w3id.org/i40/sto#ODRL
