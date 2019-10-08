@@ -13,16 +13,16 @@ Computing measures .......
 Clustering measures
 ************************************
 ClusterFilename	Conductance
-standards-part0	0.414880160826
-standards-part1	0.414880160826
+cluster-0	0.417327517853
+cluster-1	0.417327517853
 ************************************
-Max conductance:	0.414880160826
-Min conductance:	0.414880160826
-Average conductance:	0.414880160826
-Coverage:	0.603451983044
-Modularity:	0.102475755217
-Total cut:	819.666250000000
-Performance:	0.511478340345
+Max conductance:	0.417327517853
+Min conductance:	0.417327517853
+Average conductance:	0.417327517853
+Coverage:	0.602030242495
+Modularity:	0.100954455778
+Total cut:	821.186800000000
+Performance:	0.511288526924
 ************************************
 
-Total time 0.017 secs
+Total time 0.018 secs

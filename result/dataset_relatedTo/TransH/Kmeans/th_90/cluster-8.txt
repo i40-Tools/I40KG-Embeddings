@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#IEC_61513
+https://w3id.org/i40/sto#IEC_60870_P6_S501_1995
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E2
+https://w3id.org/i40/sto#IEC_60870_P2_S1_E2
+https://w3id.org/i40/sto#IEC_61508
+https://w3id.org/i40/sto#IEC_61511

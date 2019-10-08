@@ -1,0 +1,5 @@
+https://w3id.org/i40/sto#ISO_11898-1
+https://w3id.org/i40/sto#W3C_SPARQL
+https://w3id.org/i40/sto#ebXML
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#ModBus
