@@ -1,9 +1,8 @@
-https://w3id.org/i40/sto#RFC_1122
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#ISO_19439
-https://w3id.org/i40/sto#ISO_13374
-https://w3id.org/i40/sto#IEC_62591
-https://w3id.org/i40/sto#IEC_61158
-https://w3id.org/i40/sto#RFC_6750
-https://w3id.org/i40/sto#IEC_61804_P4
-https://w3id.org/i40/sto#IEC_60027_P6_E1
+https://w3id.org/i40/sto#IEC_61968_P9_E2
+https://w3id.org/i40/sto#IEC_61506
+https://w3id.org/i40/sto#MTConnect
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#DIN_SPEC_27070
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#ISO_27036

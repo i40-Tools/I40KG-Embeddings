@@ -1,0 +1,3 @@
+https://w3id.org/i40/sto#IEEE_802
+https://w3id.org/i40/sto#IEC_15408
+https://w3id.org/i40/sto#BBF_TR-069

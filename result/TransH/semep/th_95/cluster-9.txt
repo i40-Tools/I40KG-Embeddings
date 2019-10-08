@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#IEC_60038_E7
+https://w3id.org/i40/sto#IEC_60050
+https://w3id.org/i40/sto#ISO_8062-4
+https://w3id.org/i40/sto#RFC_6750
+https://w3id.org/i40/sto#RFC_7252

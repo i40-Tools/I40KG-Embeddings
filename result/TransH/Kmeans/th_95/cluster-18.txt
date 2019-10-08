@@ -1,0 +1,5 @@
+https://w3id.org/i40/sto#IEC_62837
+https://w3id.org/i40/sto#IEC_61400_P25_S5_E2
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#RFC_6750
+https://w3id.org/i40/sto#IEC_62656

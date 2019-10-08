@@ -1,7 +1,7 @@
-https://w3id.org/i40/sto#ISO_20546
-https://w3id.org/i40/sto#ISO_18828-2
-https://w3id.org/i40/sto#IEC_61968_P3_E2
-https://w3id.org/i40/sto#IEC_61784
-https://w3id.org/i40/sto#IEC_61512
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#IEC_61508
+https://w3id.org/i40/sto#ISO_27000
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#NIST_500-293
+https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
+https://w3id.org/i40/sto#IEC_60870_P6_S503_E3
+https://w3id.org/i40/sto#IEC_15408

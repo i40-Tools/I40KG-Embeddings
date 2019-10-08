@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#IEC_62837
+https://w3id.org/i40/sto#NIST_500-292
+https://w3id.org/i40/sto#IEC_61970_P452_E3
+https://w3id.org/i40/sto#IEC_61010_P2_S012_E1
+https://w3id.org/i40/sto#MathML
+https://w3id.org/i40/sto#ebXML
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_62337

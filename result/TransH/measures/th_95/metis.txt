@@ -1,0 +1,64 @@
+
+Starting the application
+Cluster files folder: measures/clusters/
+Number of cluster: 38
+Number of edges: 322
+Average value of the matrix 0.445
+Weight M 0.445
+Intra edge weight theta 0.900
+Similarity matrix loaded!
+Computing measures .......
+
+************************************
+Clustering measures
+************************************
+ClusterFilename	Conductance
+standards-part0	0.938355442386
+standards-part1	0.938593760988
+standards-part10	0.927479742964
+standards-part11	0.911447430477
+standards-part12	0.873937506689
+standards-part13	0.943967006550
+standards-part14	0.932684873552
+standards-part15	0.894258490591
+standards-part16	0.937085018996
+standards-part17	0.894244155327
+standards-part18	0.908847096025
+standards-part19	0.926205928022
+standards-part2	0.927964702686
+standards-part20	0.918108044740
+standards-part21	0.885727151027
+standards-part22	0.897143899039
+standards-part23	0.929535598702
+standards-part24	0.921652697963
+standards-part25	0.903233652632
+standards-part26	0.943111434029
+standards-part27	0.932951229751
+standards-part28	0.951518847414
+standards-part29	0.866992630935
+standards-part3	0.827695721076
+standards-part30	0.898848023893
+standards-part31	0.896169971224
+standards-part32	0.889143176668
+standards-part33	0.926317860711
+standards-part34	0.829297202342
+standards-part35	0.923849776871
+standards-part36	0.938450608438
+standards-part37	0.932761158141
+standards-part4	0.902341456562
+standards-part5	0.811879935956
+standards-part6	0.879716513915
+standards-part7	0.946275772905
+standards-part8	0.841323783747
+standards-part9	0.909559201070
+************************************
+Max conductance:	0.951518847414
+Min conductance:	0.811879935956
+Average conductance:	0.906807276447
+Coverage:	0.087522363005
+Modularity:	0.059175644013
+Total cut:	906.520179999998
+Performance:	0.958627704490
+************************************
+
+Total time 0.016 secs

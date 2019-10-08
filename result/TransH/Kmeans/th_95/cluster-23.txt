@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#IEEE_42010
+https://w3id.org/i40/sto#ISO_42010
+https://w3id.org/i40/sto#IEC_42010
+https://w3id.org/i40/sto#ODRL

@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#ISO_11898-1
+https://w3id.org/i40/sto#IEC_60381_P2_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S503_E3
+https://w3id.org/i40/sto#ISO_13485
+https://w3id.org/i40/sto#IEC_60870_P6_S802_E3
+https://w3id.org/i40/sto#ISO_19770

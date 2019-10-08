@@ -1,4 +1,6 @@
-https://w3id.org/i40/sto#ISO_24760
-https://w3id.org/i40/sto#ISO_ASTM_52915
-https://w3id.org/i40/sto#ISO_1101
-https://w3id.org/i40/sto#ISO_15408
+https://w3id.org/i40/sto#IEC_61968_P4_E2
+https://w3id.org/i40/sto#IEC_60255_P149_E1
+https://w3id.org/i40/sto#IEC_62453
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#IEC_61691_P6_E1
+https://w3id.org/i40/sto#DIN_EN_ISO_13849

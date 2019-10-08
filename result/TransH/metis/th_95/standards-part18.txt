@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61334_P4_S1_E1
+https://w3id.org/i40/sto#ETSI_ULE
+https://w3id.org/i40/sto#IEC_61968_P9_E2
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#IEC_61970_P301_E3
+https://w3id.org/i40/sto#ISO_20922
+https://w3id.org/i40/sto#IEC_61334
+https://w3id.org/i40/sto#IEC_61334_P4_S61_E1
