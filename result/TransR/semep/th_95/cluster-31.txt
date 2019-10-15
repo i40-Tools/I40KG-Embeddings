@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61850_P7_S3_E2
+https://w3id.org/i40/sto#IEC_61690_P2_E1
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#ISO_24760
+https://w3id.org/i40/sto#DIN_SPEC_27070
+https://w3id.org/i40/sto#IEC_61400
+https://w3id.org/i40/sto#ISO_20547-4

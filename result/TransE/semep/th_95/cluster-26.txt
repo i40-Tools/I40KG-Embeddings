@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#DIN_ISO_14638
+https://w3id.org/i40/sto#Thread
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#IEC_60381_P2_E1
+https://w3id.org/i40/sto#DIN_SPEC_16593_P1
+https://w3id.org/i40/sto#IEEE_802_16-2012

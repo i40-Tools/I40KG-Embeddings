@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#RFC_7644
+https://w3id.org/i40/sto#IEC_29182-1
+https://w3id.org/i40/sto#DTLS
+https://w3id.org/i40/sto#OAGIS
+https://w3id.org/i40/sto#IEEE_1856
+https://w3id.org/i40/sto#BPMN

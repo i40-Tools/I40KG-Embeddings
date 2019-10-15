@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#IEC_61970_P301_E5
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#ISO_29002
+https://w3id.org/i40/sto#DIN_EN_61511
+https://w3id.org/i40/sto#IEC_PAS_63088
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_60286_P3_E5

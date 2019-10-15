@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#RFC_6750
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#IEC_61810_P2_E3
+https://w3id.org/i40/sto#ISO_27019
+https://w3id.org/i40/sto#VDMA_24582

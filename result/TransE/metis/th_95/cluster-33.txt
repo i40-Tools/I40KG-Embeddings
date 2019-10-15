@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#ISO_29002
+https://w3id.org/i40/sto#DIN_SPEC_16592
+https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
+https://w3id.org/i40/sto#ISO_20547-4
+https://w3id.org/i40/sto#UDP
+https://w3id.org/i40/sto#ISO_20547-3
+https://w3id.org/i40/sto#ISO_9594-8
+https://w3id.org/i40/sto#ISO_ASTM_52915

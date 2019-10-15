@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#DIN_SPEC_16593_P1
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#RFC_768
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#IEC_60364
+https://w3id.org/i40/sto#ISO_22400
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#DIN_EN_ISO_13849

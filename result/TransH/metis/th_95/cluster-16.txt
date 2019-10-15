@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_61158
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#IEC_61970_P301_E1
+https://w3id.org/i40/sto#IEC_60381_P2_E1
+https://w3id.org/i40/sto#IEC_61968_P6_E1
+https://w3id.org/i40/sto#ISO_27001
+https://w3id.org/i40/sto#DIN_EN_61511

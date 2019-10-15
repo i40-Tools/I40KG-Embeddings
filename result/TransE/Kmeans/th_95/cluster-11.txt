@@ -1,0 +1,11 @@
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#IEC_61334_P5_S1_E2
+https://w3id.org/i40/sto#RFC_7643
+https://w3id.org/i40/sto#IEC_62832
+https://w3id.org/i40/sto#IEC_60027_P6_E1
+https://w3id.org/i40/sto#IEC_60255_P151_E1
+https://w3id.org/i40/sto#ebXML
+https://w3id.org/i40/sto#W3C_RIF
+https://w3id.org/i40/sto#IEC_61506
+https://w3id.org/i40/sto#IEC_14443
+https://w3id.org/i40/sto#W3C_RDF
