@@ -1,0 +1,16 @@
+{
+  "training_set_path": "./sto/relatedTo/test_set_relatedTo_materialized.nt",
+  "execution_mode": "Training_mode",
+  "random_seed": 0,
+  "kg_embedding_model_name": "TransH",
+  "embedding_dim": 50,
+  "scoring_function": 2,
+  "margin_loss": 0.05,
+  "weighting_soft_constraint": 0.015625,
+  "learning_rate": 0.01,
+  "num_epochs": 200,
+  "batch_size": 64,
+  "preferred_device": "gpu",
+  "num_entities": 8929,
+  "num_relations": 107
+}
