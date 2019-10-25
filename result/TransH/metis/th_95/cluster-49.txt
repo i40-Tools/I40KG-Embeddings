@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#DIN_ISO_14638
-https://w3id.org/i40/sto#ISO_14739-1
-https://w3id.org/i40/sto#QIF
-https://w3id.org/i40/sto#ISO_24760
-https://w3id.org/i40/sto#ISO_50001
-https://w3id.org/i40/sto#ISA_62443
-https://w3id.org/i40/sto#DIN_SPEC_91345

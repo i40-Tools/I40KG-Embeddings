@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#ENISA_CloudComputing
-https://w3id.org/i40/sto#IEC_61131
-https://w3id.org/i40/sto#IEC_61334_P4_S32_E1
-https://w3id.org/i40/sto#DIN_EN_50159
-https://w3id.org/i40/sto#VDMA_24582
-https://w3id.org/i40/sto#IEC_62443

@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#MathML
-https://w3id.org/i40/sto#DIN_SPEC_16592
-https://w3id.org/i40/sto#ISO_27017
-https://w3id.org/i40/sto#ISO_27036
-https://w3id.org/i40/sto#NIST_800-144
-https://w3id.org/i40/sto#ModBus

@@ -1,0 +1,13 @@
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#VDMA_24582
+https://w3id.org/i40/sto#ISO_13485
+https://w3id.org/i40/sto#IEC_81714
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#VDI_VDE_2182
+https://w3id.org/i40/sto#ISO_19440
+https://w3id.org/i40/sto#ISO_9594-8
+https://w3id.org/i40/sto#IEC_29182-1
+https://w3id.org/i40/sto#NIST_800-144
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E1

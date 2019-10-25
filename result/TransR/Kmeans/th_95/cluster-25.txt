@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61010_P2_S201_E2
-https://w3id.org/i40/sto#SysML
-https://w3id.org/i40/sto#IEC_62541
-https://w3id.org/i40/sto#IEC_61850
-https://w3id.org/i40/sto#IEC_61512
-https://w3id.org/i40/sto#RFC_768
-https://w3id.org/i40/sto#ISO_14306
-https://w3id.org/i40/sto#ISO_19440
-https://w3id.org/i40/sto#ISO_14739-1

@@ -1,4 +1,0 @@
-https://w3id.org/i40/sto#IEC_61970_P301_E2
-https://w3id.org/i40/sto#IEC_61010_P2_S202_E1
-https://w3id.org/i40/sto#ISO_42010
-https://w3id.org/i40/sto#DIN_SPEC_92222

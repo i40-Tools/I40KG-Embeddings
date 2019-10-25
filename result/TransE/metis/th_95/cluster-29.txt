@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#OMG_DDS
-https://w3id.org/i40/sto#RFC_7644
-https://w3id.org/i40/sto#IEC_61968_P4_E1
-https://w3id.org/i40/sto#DIN_SPEC_16593_P1
-https://w3id.org/i40/sto#SysML
-https://w3id.org/i40/sto#NISTIR_8107

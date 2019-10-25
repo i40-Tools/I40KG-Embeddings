@@ -1,4 +1,0 @@
-https://w3id.org/i40/sto#IEC_60027_P6_E1
-https://w3id.org/i40/sto#IEC_61000_P6_S2_E3
-https://w3id.org/i40/sto#MTConnect
-https://w3id.org/i40/sto#IEC_60839_P7_S6_E1

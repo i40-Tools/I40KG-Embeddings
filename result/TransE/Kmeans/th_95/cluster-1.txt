@@ -1,5 +1,0 @@
-https://w3id.org/i40/sto#OMG_DDS
-https://w3id.org/i40/sto#ISO_11783
-https://w3id.org/i40/sto#ISO_42010
-https://w3id.org/i40/sto#ODRL
-https://w3id.org/i40/sto#UDP

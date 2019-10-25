@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_62794
-https://w3id.org/i40/sto#ISO_14443
-https://w3id.org/i40/sto#IEC_60870_P6_S802_E3
-https://w3id.org/i40/sto#ISO_13485
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#IEC_62337

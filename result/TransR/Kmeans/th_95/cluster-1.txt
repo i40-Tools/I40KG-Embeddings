@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61400_P25_S1_E2
-https://w3id.org/i40/sto#ISO_5459
-https://w3id.org/i40/sto#IEC_61970_P301_E6_RLV
-https://w3id.org/i40/sto#IEC_60381_P2_E1
-https://w3id.org/i40/sto#ISO_27031
-https://w3id.org/i40/sto#RFC_7642
-https://w3id.org/i40/sto#ISO_29002
-https://w3id.org/i40/sto#IEC_61970_P452_E1

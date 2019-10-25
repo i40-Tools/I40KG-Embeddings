@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#NIST_500-293
-https://w3id.org/i40/sto#IEC_62279
-https://w3id.org/i40/sto#IEC_61970_P301_E3
-https://w3id.org/i40/sto#ISO_13849
-https://w3id.org/i40/sto#ISO_19770
-https://w3id.org/i40/sto#ISO_29190

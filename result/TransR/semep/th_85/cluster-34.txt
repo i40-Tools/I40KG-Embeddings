@@ -1,0 +1,12 @@
+https://w3id.org/i40/sto#IEC_60870_P5_S6_E1
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#ISO_19439
+https://w3id.org/i40/sto#IEC_15408
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#IEC_61690_P2_E1
+https://w3id.org/i40/sto#IEC_60870_P5_S103_E1
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#IEC_62264
+https://w3id.org/i40/sto#IEC_62424
+https://w3id.org/i40/sto#B2MML

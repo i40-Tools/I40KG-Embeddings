@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#IEC_61804
+https://w3id.org/i40/sto#RFC_793
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#ISO_27031

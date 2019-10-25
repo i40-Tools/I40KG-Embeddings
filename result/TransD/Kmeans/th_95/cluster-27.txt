@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#IEC_62453
-https://w3id.org/i40/sto#RFC_7252
-https://w3id.org/i40/sto#IEC_62541
-https://w3id.org/i40/sto#IEC_61970_P301_E4
-https://w3id.org/i40/sto#IEEE_P1828
-https://w3id.org/i40/sto#IEC_60839_P7_S3_E1
-https://w3id.org/i40/sto#ISO_20922
-https://w3id.org/i40/sto#DIN_SPEC_92222

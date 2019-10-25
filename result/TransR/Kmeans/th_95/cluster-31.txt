@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_15408
-https://w3id.org/i40/sto#BPEL
-https://w3id.org/i40/sto#NIST_800-146
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#IEC_61987_X
-https://w3id.org/i40/sto#ISO_29100
-https://w3id.org/i40/sto#NIST_500-292
-https://w3id.org/i40/sto#IEC_61499
-https://w3id.org/i40/sto#ISO_27017

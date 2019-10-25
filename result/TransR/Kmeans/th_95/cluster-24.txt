@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61360
-https://w3id.org/i40/sto#W3C_DCAT
-https://w3id.org/i40/sto#ebXML
-https://w3id.org/i40/sto#ISO_42010
-https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
-https://w3id.org/i40/sto#DIN_SPEC_16593_P1
-https://w3id.org/i40/sto#ISO_16739
-https://w3id.org/i40/sto#TS-0009

@@ -1,0 +1,3 @@
+https://w3id.org/i40/sto#TS-0009
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_61513

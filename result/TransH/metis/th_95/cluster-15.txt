@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_61968_P4_E2
-https://w3id.org/i40/sto#ISA-95
-https://w3id.org/i40/sto#IEC_61400_P25_S6_E2
-https://w3id.org/i40/sto#IEC_62237
-https://w3id.org/i40/sto#IEC_62264_P6
-https://w3id.org/i40/sto#RFC_7644

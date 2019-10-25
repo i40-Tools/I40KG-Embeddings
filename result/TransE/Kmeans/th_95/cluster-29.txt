@@ -1,2 +1,0 @@
-https://w3id.org/i40/sto#IEC_60870_P2_S1_E2
-https://w3id.org/i40/sto#IEC_60870_P6_S501_1995

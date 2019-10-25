@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_27036
-https://w3id.org/i40/sto#IEC_60870_P6_S503_E3
-https://w3id.org/i40/sto#B2MML
-https://w3id.org/i40/sto#BPMN
-https://w3id.org/i40/sto#IEC_61850_P7_S420_E1
-https://w3id.org/i40/sto#W3C_RIF
-https://w3id.org/i40/sto#IEC_60255_2010
-https://w3id.org/i40/sto#VDE_2182
-https://w3id.org/i40/sto#IEC_61310_P3_E2

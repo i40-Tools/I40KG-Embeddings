@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61360
-https://w3id.org/i40/sto#ISO_ASTM_52915
-https://w3id.org/i40/sto#ISO_15926
-https://w3id.org/i40/sto#IEC_61987_X
-https://w3id.org/i40/sto#ISO_19440
-https://w3id.org/i40/sto#ISO_15746
-https://w3id.org/i40/sto#eClass
-https://w3id.org/i40/sto#IEC_62541
-https://w3id.org/i40/sto#ISO_18629

@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#ISO_29101
+https://w3id.org/i40/sto#RFC_793
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#IEC_61512
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#RFC_7644
+https://w3id.org/i40/sto#IEC_61000_P6_S2_E3

@@ -1,4 +1,0 @@
-https://w3id.org/i40/sto#VDI_VDE_2182
-https://w3id.org/i40/sto#W3C_RIF
-https://w3id.org/i40/sto#VDE_2182
-https://w3id.org/i40/sto#W3C_RDF

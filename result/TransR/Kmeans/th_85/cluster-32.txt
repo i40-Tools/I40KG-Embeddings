@@ -1,0 +1,3 @@
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#ISO_19440
+https://w3id.org/i40/sto#NIST_800-146

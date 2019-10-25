@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#ISO_14306
-https://w3id.org/i40/sto#W3C_DCAT
-https://w3id.org/i40/sto#IEEE_1905_1-2013
-https://w3id.org/i40/sto#IEC_29161
-https://w3id.org/i40/sto#W3C_RDF
-https://w3id.org/i40/sto#DIN_EN_50128
-https://w3id.org/i40/sto#ISO_26262

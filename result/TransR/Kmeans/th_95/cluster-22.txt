@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#IEC_61506
-https://w3id.org/i40/sto#ISO_11783
-https://w3id.org/i40/sto#IEC_60027_P6_E1
-https://w3id.org/i40/sto#IEC_60870_P6_S501_E1
-https://w3id.org/i40/sto#IEC_60382_E2
-https://w3id.org/i40/sto#IEC_61850_P4_E1

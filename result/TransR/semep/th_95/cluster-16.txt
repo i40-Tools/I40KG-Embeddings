@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#DIN_SPEC_16593_P1
-https://w3id.org/i40/sto#IEC_61334
-https://w3id.org/i40/sto#ISO_27031
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#OMG_DDS
-https://w3id.org/i40/sto#X509
-https://w3id.org/i40/sto#IEC_60050_1998
-https://w3id.org/i40/sto#ISO_15531-2x

@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#DIN_SPEC_16592
-https://w3id.org/i40/sto#RFC_793
-https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#ISO_PAS_17506

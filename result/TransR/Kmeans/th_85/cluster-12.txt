@@ -1,0 +1,3 @@
+https://w3id.org/i40/sto#ISO_15746
+https://w3id.org/i40/sto#ISO_13374
+https://w3id.org/i40/sto#DIN_EN_50129
