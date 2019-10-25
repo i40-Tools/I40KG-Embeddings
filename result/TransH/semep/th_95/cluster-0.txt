@@ -1,1 +1,1 @@
-https://w3id.org/i40/sto#IEEE_2413
+https://w3id.org/i40/sto#X509

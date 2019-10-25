@@ -1,0 +1,2 @@
+https://w3id.org/i40/sto#RFC_768
+https://w3id.org/i40/sto#IEC_62337

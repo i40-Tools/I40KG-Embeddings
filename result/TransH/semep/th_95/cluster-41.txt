@@ -1,0 +1,5 @@
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#ETSI_DECT
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#IEC_62061

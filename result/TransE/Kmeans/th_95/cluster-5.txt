@@ -1,6 +1,5 @@
-https://w3id.org/i40/sto#IEC_61691_P6_E1
-https://w3id.org/i40/sto#IEC_61334_P6_E1
-https://w3id.org/i40/sto#IEC_61850_P7_S2_E2
-https://w3id.org/i40/sto#B2MML
-https://w3id.org/i40/sto#IEC_61968_P9_E2
+https://w3id.org/i40/sto#ISO_5459
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61850_P7_S420_E1
 https://w3id.org/i40/sto#IEC_61850_P7_S4_E2
+https://w3id.org/i40/sto#ISO_16792

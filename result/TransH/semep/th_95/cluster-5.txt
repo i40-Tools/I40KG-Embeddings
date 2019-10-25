@@ -1,3 +1,1 @@
-https://w3id.org/i40/sto#IEC_60050_2013
-https://w3id.org/i40/sto#DIN_SPEC_91345
-https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#ISA_62443

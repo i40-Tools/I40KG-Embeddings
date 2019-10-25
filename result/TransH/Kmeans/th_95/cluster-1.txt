@@ -1,3 +1,5 @@
-https://w3id.org/i40/sto#IEC_61000_P6_S2_E3
-https://w3id.org/i40/sto#IEC_PAS_63088
-https://w3id.org/i40/sto#IEC_60073_E6
+https://w3id.org/i40/sto#IEC_62424
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#RFC_7252
+https://w3id.org/i40/sto#ISO_11898-1
+https://w3id.org/i40/sto#RFC_7540

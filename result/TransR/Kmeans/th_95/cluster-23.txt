@@ -1,6 +1,6 @@
-https://w3id.org/i40/sto#ETSI_DECT
-https://w3id.org/i40/sto#IEC_60364
-https://w3id.org/i40/sto#DIN_EN_ISO_13849
-https://w3id.org/i40/sto#DIN_SPEC_16592
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#IEC_62541
+https://w3id.org/i40/sto#ODRL
+https://w3id.org/i40/sto#RFC_7644
+https://w3id.org/i40/sto#OAGIS
+https://w3id.org/i40/sto#IEC_61691_P6_E1
+https://w3id.org/i40/sto#IEC_61310_P3_E2
+https://w3id.org/i40/sto#DIN_EN_50129

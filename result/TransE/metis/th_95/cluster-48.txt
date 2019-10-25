@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#IEC_29161
+https://w3id.org/i40/sto#IEC_61691_P6_E1
+https://w3id.org/i40/sto#ISO_22400
+https://w3id.org/i40/sto#IEC_61970_P301_E6
+https://w3id.org/i40/sto#Thread
+https://w3id.org/i40/sto#IEC_61968_P6_E1

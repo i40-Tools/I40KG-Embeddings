@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61158
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#IEC_60038_E7
+https://w3id.org/i40/sto#IEC_60839_P7_S2_E1
+https://w3id.org/i40/sto#IEC_62794
+https://w3id.org/i40/sto#IEC_62837
+https://w3id.org/i40/sto#QIF
+https://w3id.org/i40/sto#IEC_PAS_63088
+https://w3id.org/i40/sto#ISO_20547-4

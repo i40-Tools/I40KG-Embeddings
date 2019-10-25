@@ -1,6 +1,2 @@
-https://w3id.org/i40/sto#RFC_5246
-https://w3id.org/i40/sto#IEC_62443
-https://w3id.org/i40/sto#IEC_29161
-https://w3id.org/i40/sto#ISO_11404
-https://w3id.org/i40/sto#IEC_81714
-https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#IEC_24760
+https://w3id.org/i40/sto#ISO_24760

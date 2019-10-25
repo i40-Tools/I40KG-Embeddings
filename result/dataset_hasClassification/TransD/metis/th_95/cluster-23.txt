@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61970_P301_E5
+https://w3id.org/i40/sto#IEC_60050_1998
+https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#UDP
+https://w3id.org/i40/sto#IEC_60286_P4_E3
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#IEC_29182-1

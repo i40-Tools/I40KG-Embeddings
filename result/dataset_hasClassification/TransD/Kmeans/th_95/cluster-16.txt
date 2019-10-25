@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61850_P10_E2
+https://w3id.org/i40/sto#ISO_29002
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#IEC_61310_P3_E2
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#ISO_18828-2

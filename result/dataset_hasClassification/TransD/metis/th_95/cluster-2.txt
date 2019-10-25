@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_60204_P11_E1
+https://w3id.org/i40/sto#IEC_61334_P4_S61_E1
+https://w3id.org/i40/sto#X509
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E1
+https://w3id.org/i40/sto#ISO_29002
+https://w3id.org/i40/sto#NIST_500-291
+https://w3id.org/i40/sto#IEC_61970_P452_E3
+https://w3id.org/i40/sto#ISO_26262
+https://w3id.org/i40/sto#ETSI_DECT

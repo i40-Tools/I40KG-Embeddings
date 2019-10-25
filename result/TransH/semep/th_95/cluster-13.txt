@@ -1,6 +1,6 @@
-https://w3id.org/i40/sto#IEC_62279
-https://w3id.org/i40/sto#IEC_61810_P7_E2
-https://w3id.org/i40/sto#IEC_61160_E2
-https://w3id.org/i40/sto#IEC_60255_P149_E1
-https://w3id.org/i40/sto#TS-0009
-https://w3id.org/i40/sto#IEC_60286_P4_E3
+https://w3id.org/i40/sto#IEC_61310_P2_E2
+https://w3id.org/i40/sto#IEC_61691_P6_E1
+https://w3id.org/i40/sto#IEC_61968_P9_E1
+https://w3id.org/i40/sto#IEC_61968_P3_E1
+https://w3id.org/i40/sto#ASAM_ODS
+https://w3id.org/i40/sto#IEC_61970_P452_E2

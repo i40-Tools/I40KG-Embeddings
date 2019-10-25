@@ -1,0 +1,17 @@
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#DTLS
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#IEC_60904
+https://w3id.org/i40/sto#ISO_29161
+https://w3id.org/i40/sto#ISO_20140_P1
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#IEC_60382_E2
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#IEEE_1451
+https://w3id.org/i40/sto#IEEE_1856
+https://w3id.org/i40/sto#ISO_15531
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#VDMA_24582
+https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
+https://w3id.org/i40/sto#IEC_60255_P1_E1
+https://w3id.org/i40/sto#OAGIS

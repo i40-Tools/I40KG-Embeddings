@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#ISO_19439
+https://w3id.org/i40/sto#ISO_29101
+https://w3id.org/i40/sto#IEC_61158
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#ISO_29161
+https://w3id.org/i40/sto#DIN_SPEC_16593_P1
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#IEC_60286_P4_E3

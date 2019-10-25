@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ISO_9594-8
+https://w3id.org/i40/sto#ISO_27019
+https://w3id.org/i40/sto#ISO_9594
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#DIN_EN_61511
+https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#DIN_EN_50155
+https://w3id.org/i40/sto#ISO_9000
+https://w3id.org/i40/sto#DIN_EN_50159

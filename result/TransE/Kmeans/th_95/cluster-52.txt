@@ -1,0 +1,5 @@
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#ISO_15531-4x
+https://w3id.org/i40/sto#ISO_15531-3x
+https://w3id.org/i40/sto#ISO_14739-1
+https://w3id.org/i40/sto#IEC_61850_P4_E1

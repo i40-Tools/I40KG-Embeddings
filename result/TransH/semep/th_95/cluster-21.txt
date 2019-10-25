@@ -1,5 +1,4 @@
-https://w3id.org/i40/sto#IEC_60839_P7_S7_E1
-https://w3id.org/i40/sto#IEC_60946_E1
-https://w3id.org/i40/sto#ISO_TS_14649-201
-https://w3id.org/i40/sto#IEC_60839_P7_S1_E1
-https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#IEC_60255_P149_E1
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#IEC_60255_P1_E1
+https://w3id.org/i40/sto#IEC_60286_P3_E5

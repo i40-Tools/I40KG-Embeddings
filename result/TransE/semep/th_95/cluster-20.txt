@@ -1,8 +1,5 @@
-https://w3id.org/i40/sto#IEC_62279
-https://w3id.org/i40/sto#ISO_15926
-https://w3id.org/i40/sto#ISO_16739
-https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
-https://w3id.org/i40/sto#VDE_2182
-https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
-https://w3id.org/i40/sto#ISO_29115
-https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#IEC_61810_P7_E2
+https://w3id.org/i40/sto#ISA_62443
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#IEC_61968_P8_E1
+https://w3id.org/i40/sto#IEC_61400_P25_S1_E2

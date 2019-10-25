@@ -1,11 +1,4 @@
-https://w3id.org/i40/sto#IEC_60255_P1_E1
-https://w3id.org/i40/sto#IEC_61810_P2_E3
-https://w3id.org/i40/sto#IEC_60286_P5_E3
-https://w3id.org/i40/sto#IEC_61804
-https://w3id.org/i40/sto#IEC_61968_P3_E2
-https://w3id.org/i40/sto#IEC_62794
-https://w3id.org/i40/sto#IEC_61804_P4
-https://w3id.org/i40/sto#IEEE_1888-3-2013
 https://w3id.org/i40/sto#ISO_ASTM_52915
-https://w3id.org/i40/sto#IEC_60255_P27_E2
-https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#IEC_61512
+https://w3id.org/i40/sto#IEC_61987_X

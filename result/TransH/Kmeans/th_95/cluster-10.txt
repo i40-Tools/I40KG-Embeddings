@@ -1,4 +1,3 @@
-https://w3id.org/i40/sto#IEC_61334_P3_S1_E1
-https://w3id.org/i40/sto#IEC_61334_P4_S32_E1
-https://w3id.org/i40/sto#IEC_61334_P6_E1
-https://w3id.org/i40/sto#IEC_61334_P4_S41_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#IEC_60870_P6_S501_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S501_1995

@@ -1,4 +1,4 @@
-https://w3id.org/i40/sto#ISO_15704
-https://w3id.org/i40/sto#IEC_60027_P6_E1
-https://w3id.org/i40/sto#DIN_77005_P1
-https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#ISO_20546
+https://w3id.org/i40/sto#IEC_61968_P8_E1
+https://w3id.org/i40/sto#IEC_60839_P7_S3_E1
+https://w3id.org/i40/sto#IEC_60382_E2

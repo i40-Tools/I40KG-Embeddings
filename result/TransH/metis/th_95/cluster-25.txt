@@ -1,8 +1,7 @@
-https://w3id.org/i40/sto#IEC_62443
-https://w3id.org/i40/sto#IEC_11404
-https://w3id.org/i40/sto#IEC_61400_P25_S3_E2
-https://w3id.org/i40/sto#ISO_20922
-https://w3id.org/i40/sto#ISO_9000
-https://w3id.org/i40/sto#ISO_16792
-https://w3id.org/i40/sto#RFC_7643
-https://w3id.org/i40/sto#MathML
+https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#DIN_EN_61511
+https://w3id.org/i40/sto#IEC_61970_P1_E1
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#IEC_61970_P452_E1
+https://w3id.org/i40/sto#IEC_60870_P5_S1_E1
+https://w3id.org/i40/sto#IEC_62541

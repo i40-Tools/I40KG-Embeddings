@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#NIST_800-144
+https://w3id.org/i40/sto#NIST_500-291
+https://w3id.org/i40/sto#ISO_29100

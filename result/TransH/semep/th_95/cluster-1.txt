@@ -1,3 +1,1 @@
-https://w3id.org/i40/sto#RFC_7252
-https://w3id.org/i40/sto#IEC_60848_E3
-https://w3id.org/i40/sto#ISO_29190
+https://w3id.org/i40/sto#QIF

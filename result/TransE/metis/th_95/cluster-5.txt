@@ -1,9 +1,6 @@
-https://w3id.org/i40/sto#IEC_62424
-https://w3id.org/i40/sto#IEC_61010_P2_S012_E1
-https://w3id.org/i40/sto#IEC_61400_P25_S3_E2
-https://w3id.org/i40/sto#IEC_62264_P6
-https://w3id.org/i40/sto#ISO_13849
-https://w3id.org/i40/sto#ETSI_ULE
-https://w3id.org/i40/sto#IEC_60870_P6_S502_E1
-https://w3id.org/i40/sto#OMG_DDS
-https://w3id.org/i40/sto#IEC_62061
+https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E2
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#IEC_61499
+https://w3id.org/i40/sto#IEC_60381_P2_E1

@@ -1,8 +1,3 @@
-https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
-https://w3id.org/i40/sto#IEC_60848_E3
-https://w3id.org/i40/sto#IEC_61334_P4_S61_E1
-https://w3id.org/i40/sto#IEC_60870_P5_S103_E1
-https://w3id.org/i40/sto#ETSI_ULE
-https://w3id.org/i40/sto#IEC_60870_P6_S503_E3
-https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
-https://w3id.org/i40/sto#ISO_26262
+https://w3id.org/i40/sto#W3C_SPARQL
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#ASME_Y1441

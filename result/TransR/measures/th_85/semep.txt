@@ -2,9 +2,9 @@
 Starting the application
 Cluster files folder: measures/clusters/
 Number of cluster: 2
-Number of edges: 322
-Average value of the matrix 0.286
-Weight M 0.286
+Number of edges: 321
+Average value of the matrix 0.295
+Weight M 0.295
 Intra edge weight theta 0.900
 Similarity matrix loaded!
 Computing measures .......
@@ -13,16 +13,16 @@ Computing measures .......
 Clustering measures
 ************************************
 ClusterFilename	Conductance
-cluster-0	0.587325221873
-cluster-1	0.587325221873
+cluster-0	0.483094818535
+cluster-1	0.483094818535
 ************************************
-Max conductance:	0.587325221873
-Min conductance:	0.587325221873
-Average conductance:	0.587325221873
-Coverage:	0.623784393540
-Modularity:	0.059184956894
-Total cut:	776.298410000000
-Performance:	0.449391314511
+Max conductance:	0.483094818535
+Min conductance:	0.483094818535
+Average conductance:	0.483094818535
+Coverage:	0.580511422427
+Modularity:	0.071843705776
+Total cut:	890.462360000000
+Performance:	0.499765136493
 ************************************
 
 Total time 0.018 secs

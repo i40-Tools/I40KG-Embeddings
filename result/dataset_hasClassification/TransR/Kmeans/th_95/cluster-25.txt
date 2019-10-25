@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#NISTIR_8107
+https://w3id.org/i40/sto#DIN_EN_50128
+https://w3id.org/i40/sto#IEEE_802_16-2012
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#IEC_60255_P149_E1
+https://w3id.org/i40/sto#ISO_15704
+https://w3id.org/i40/sto#IEC_61850_P4_E2

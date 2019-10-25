@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_60870_P6_S2_E1
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#IEC_61010_P2_S202_E1
+https://w3id.org/i40/sto#IEC_61400_P25_S5_E2
+https://w3id.org/i40/sto#ISO_15704
+https://w3id.org/i40/sto#DIN_SPEC_27070
+https://w3id.org/i40/sto#IEC_61968_P4_E1
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#ISO_14739-1

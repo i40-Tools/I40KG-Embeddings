@@ -1,4 +1,2 @@
-https://w3id.org/i40/sto#ISO_20140_P1
-https://w3id.org/i40/sto#IEC_61970_P301_E5
-https://w3id.org/i40/sto#IEC_29100
-https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#IEEE_1905_1-2013
+https://w3id.org/i40/sto#IEEE_1451

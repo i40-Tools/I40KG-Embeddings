@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#ISO_15746
+https://w3id.org/i40/sto#IEC_42010
+https://w3id.org/i40/sto#IEC_62656
+https://w3id.org/i40/sto#IEC_61400_P25_S4_E2
+https://w3id.org/i40/sto#W3C_RIF
+https://w3id.org/i40/sto#ISO_29134
+https://w3id.org/i40/sto#IEC_60839_P7_S5_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#ISO_15531

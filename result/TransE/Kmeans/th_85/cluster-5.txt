@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#IEC_61508
+https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#ISO_13485
+https://w3id.org/i40/sto#ISO_26262

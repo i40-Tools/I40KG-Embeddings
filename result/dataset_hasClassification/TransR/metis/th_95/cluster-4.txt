@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#DIN_ISO_14638
+https://w3id.org/i40/sto#RFC_768
+https://w3id.org/i40/sto#IEC_60050_1998
+https://w3id.org/i40/sto#IEC_60364
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#IEC_61970_P301_E6_RLV
+https://w3id.org/i40/sto#DIN_SPEC_16592
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#IEC_62541

@@ -1,0 +1,8 @@
+https://w3id.org/i40/sto#ISO_19941
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#BBF_TR-069
+https://w3id.org/i40/sto#NIST_800-144
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_62714
+https://w3id.org/i40/sto#IEC_61970_P301_E3
+https://w3id.org/i40/sto#IEC_62237

@@ -1,3 +1,5 @@
-https://w3id.org/i40/sto#ISA_62443
-https://w3id.org/i40/sto#RFC_7519
-https://w3id.org/i40/sto#RFC_2818
+https://w3id.org/i40/sto#ISO_11404
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#NISTIR_8107
+https://w3id.org/i40/sto#IEC_11404

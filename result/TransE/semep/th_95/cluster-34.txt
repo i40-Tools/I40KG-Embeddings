@@ -1,7 +1,4 @@
-https://w3id.org/i40/sto#IEEE_1888-3-2013
-https://w3id.org/i40/sto#IEC_61810_P2_E3
-https://w3id.org/i40/sto#ISO_14739-1
-https://w3id.org/i40/sto#IEC_61970_P301_E3
-https://w3id.org/i40/sto#IEC_62837
-https://w3id.org/i40/sto#ISO_29161
-https://w3id.org/i40/sto#IEC_62337
+https://w3id.org/i40/sto#IEC_60027_P6_E1
+https://w3id.org/i40/sto#IEC_61000_P6_S2_E3
+https://w3id.org/i40/sto#MTConnect
+https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
