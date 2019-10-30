@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#ISO_19770
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#ISO_14306

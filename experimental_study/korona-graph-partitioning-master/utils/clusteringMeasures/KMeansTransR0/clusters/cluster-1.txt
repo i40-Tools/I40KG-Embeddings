@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ODRL
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#VDI_VDE_2182
+https://w3id.org/i40/sto#ISO_15746
+https://w3id.org/i40/sto#RFC_7519
+https://w3id.org/i40/sto#IEC_62541
+https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#DIN_EN_50155
+https://w3id.org/i40/sto#IEC_61513
+https://w3id.org/i40/sto#ISO_29134

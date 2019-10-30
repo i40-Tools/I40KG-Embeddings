@@ -1,0 +1,2 @@
+D00506	hsa:9970	1.0000	Interactive
+D00730	hsa:8856	1.0000	Interactive

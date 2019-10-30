@@ -1,2 +1,9 @@
-https://w3id.org/i40/sto#ISO_TS_14649-201
-https://w3id.org/i40/sto#IEC_62443
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#ISO_22400
+https://w3id.org/i40/sto#IEC_61360
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#IEC_61804_P5

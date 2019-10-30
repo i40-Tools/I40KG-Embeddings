@@ -1,0 +1,15 @@
+https://w3id.org/i40/sto#VDI_VDE_2182
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#ISO_15408
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
+https://w3id.org/i40/sto#ISO_13374
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#IEC_60870_P5_S101_E2_1
+https://w3id.org/i40/sto#IEC_60870_P6_S701_E1
+https://w3id.org/i40/sto#IEC_60839_P7_S2_E1
+https://w3id.org/i40/sto#IEC_60286_P3_E5
+https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
+https://w3id.org/i40/sto#IEC_60050_1998

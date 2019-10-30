@@ -1,0 +1,35 @@
+
+Starting the application
+Cluster files folder: METISTransD0/clusters/
+Number of cluster: 9
+Number of edges: 249
+Average value of the matrix 0.318
+Weight M 0.318
+Intra edge weight theta 0.900
+Similarity matrix loaded!
+Computing measures .......
+
+************************************
+Clustering measures
+************************************
+ClusterFilename	Conductance
+cluster-0	0.746651613554
+cluster-1	0.714813389013
+cluster-2	0.683671305622
+cluster-3	0.726528753938
+cluster-4	0.748023960137
+cluster-5	0.669262918030
+cluster-6	0.701241771578
+cluster-7	0.707730602165
+cluster-8	0.684966280992
+************************************
+Max conductance:	0.748023960137
+Min conductance:	0.669262918030
+Average conductance:	0.709210066114
+Coverage:	0.291614088538
+Modularity:	0.180268332900
+Total cut:	611.208929999999
+Performance:	0.872841860466
+************************************
+
+Total time 0.011 secs

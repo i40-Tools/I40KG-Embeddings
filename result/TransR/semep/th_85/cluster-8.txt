@@ -1,3 +1,5 @@
-https://w3id.org/i40/sto#IEC_61968_P6_E1
-https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
-https://w3id.org/i40/sto#ISO_15531
+https://w3id.org/i40/sto#IEC_60839_P7_S2_E1
+https://w3id.org/i40/sto#IEC_60286_P5_E3
+https://w3id.org/i40/sto#IEC_60870_P5_S101_E2_1
+https://w3id.org/i40/sto#IEC_60286_P3_E5
+https://w3id.org/i40/sto#W3C_RDF

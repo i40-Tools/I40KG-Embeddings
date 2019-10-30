@@ -1,0 +1,14 @@
+https://w3id.org/i40/sto#ISO_16792
+https://w3id.org/i40/sto#ISO_29190
+https://w3id.org/i40/sto#IEC_62443
+https://w3id.org/i40/sto#IEC_60839_P5_S2_E2
+https://w3id.org/i40/sto#IEC_61158
+https://w3id.org/i40/sto#ISO_9594-8
+https://w3id.org/i40/sto#ISO_26262
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#ISO_18828-2
+https://w3id.org/i40/sto#ISO_27001
+https://w3id.org/i40/sto#ETSI_ULE
+https://w3id.org/i40/sto#IEC_60870_P6_S501_1995
+https://w3id.org/i40/sto#ISO_15531-3x

@@ -1,0 +1,3 @@
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#NIST_500-292
+https://w3id.org/i40/sto#IEC_62424

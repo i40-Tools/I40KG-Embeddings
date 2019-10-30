@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#MathML
+https://w3id.org/i40/sto#IEC_29115
+https://w3id.org/i40/sto#IEC_62337
+https://w3id.org/i40/sto#IEC_62264

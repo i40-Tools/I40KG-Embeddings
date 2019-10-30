@@ -1,0 +1,3 @@
+D00586	hsa:367	1.0000	Interactive
+D00961	hsa:367	1.0000	Interactive
+D00965	hsa:367	1.0000	Interactive

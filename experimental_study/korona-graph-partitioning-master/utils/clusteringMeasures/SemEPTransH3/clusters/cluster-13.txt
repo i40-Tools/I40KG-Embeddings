@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#W3C_RIF
+https://w3id.org/i40/sto#W3C_RDF
+https://w3id.org/i40/sto#W3C_OWL
+https://w3id.org/i40/sto#W3C_SPARQL

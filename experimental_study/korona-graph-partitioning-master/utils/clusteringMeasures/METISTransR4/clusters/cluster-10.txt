@@ -1,0 +1,17 @@
+https://w3id.org/i40/sto#IEC_24760
+https://w3id.org/i40/sto#SysML
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#ISO_19770
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E1
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#IEC_61804_P5
+https://w3id.org/i40/sto#IEC_61804
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#ISO_29190

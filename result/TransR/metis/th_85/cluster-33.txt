@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#NIST_500-293
-https://w3id.org/i40/sto#IEEE_1686
-https://w3id.org/i40/sto#RFC_5246
-https://w3id.org/i40/sto#TS-0009
-https://w3id.org/i40/sto#DIN_SPEC_27070
-https://w3id.org/i40/sto#NISTIR_8062
-https://w3id.org/i40/sto#RFC_7643

@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E1
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E2
+https://w3id.org/i40/sto#ISO_20922
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#NISTIR_8062
+https://w3id.org/i40/sto#ISO_14739-1
+https://w3id.org/i40/sto#RFC_7540
+https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#IEC_24760

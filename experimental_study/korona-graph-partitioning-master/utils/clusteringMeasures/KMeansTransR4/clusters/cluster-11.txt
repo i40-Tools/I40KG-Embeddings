@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#RFC_5246
+https://w3id.org/i40/sto#NIST_500-292
+https://w3id.org/i40/sto#ISO_27017
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E2
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E2
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#IEC_60870_P6_S502_E1

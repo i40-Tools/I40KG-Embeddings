@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#ISO_15408
+https://w3id.org/i40/sto#IEC_61511
+https://w3id.org/i40/sto#ISO_22400
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#eClass
+https://w3id.org/i40/sto#IEC_61158
+https://w3id.org/i40/sto#NIST_500-291
+https://w3id.org/i40/sto#IEC_61360
+https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
+https://w3id.org/i40/sto#ISO_29100

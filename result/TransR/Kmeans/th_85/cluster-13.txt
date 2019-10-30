@@ -1,4 +1,8 @@
-https://w3id.org/i40/sto#IEC_61987_X
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#ISO_PAS_17506
-https://w3id.org/i40/sto#IEC_62541
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#IEC_61513
+https://w3id.org/i40/sto#ISO_29134
+https://w3id.org/i40/sto#DIN_EN_50155
+https://w3id.org/i40/sto#ISO_15746
+https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#ISO_15408
+https://w3id.org/i40/sto#RFC_1122

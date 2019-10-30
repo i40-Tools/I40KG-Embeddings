@@ -1,0 +1,15 @@
+https://w3id.org/i40/sto#ISO_20922
+https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#IEC_29190
+https://w3id.org/i40/sto#DIN_EN_50159
+https://w3id.org/i40/sto#ISO_14739-1
+https://w3id.org/i40/sto#IEC_62061
+https://w3id.org/i40/sto#ISO_9594
+https://w3id.org/i40/sto#IEEE_1686
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#NISTIR_8062
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#IEC_62337
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#ISO_TS_14649-201
+https://w3id.org/i40/sto#ISO_13374

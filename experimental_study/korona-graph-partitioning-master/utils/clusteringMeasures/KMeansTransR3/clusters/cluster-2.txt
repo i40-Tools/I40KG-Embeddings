@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#ISO_15704
+https://w3id.org/i40/sto#IEC_15408
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#DIN_EN_50129
+https://w3id.org/i40/sto#ISO_9000
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E2

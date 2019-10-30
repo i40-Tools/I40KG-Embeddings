@@ -1,0 +1,11 @@
+https://w3id.org/i40/sto#ebXML
+https://w3id.org/i40/sto#IEC_61810_P7_E2
+https://w3id.org/i40/sto#ISO_13374
+https://w3id.org/i40/sto#RFC_1122
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#ISO_8062-4
+https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
+https://w3id.org/i40/sto#DIN_EN_50159
+https://w3id.org/i40/sto#IEC_61334_P4_S61_E1
+https://w3id.org/i40/sto#W3C_RIF

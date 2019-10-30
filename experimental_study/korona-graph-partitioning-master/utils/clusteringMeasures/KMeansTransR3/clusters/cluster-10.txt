@@ -1,0 +1,11 @@
+https://w3id.org/i40/sto#NIST_500-293
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#ISO_27018
+https://w3id.org/i40/sto#ISO_18629
+https://w3id.org/i40/sto#IEC_61850_P4_E2
+https://w3id.org/i40/sto#RFC_7519
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_62424
+https://w3id.org/i40/sto#IEC_27018
+https://w3id.org/i40/sto#DIN_SPEC_16592

@@ -1,3 +1,0 @@
-https://w3id.org/i40/sto#SysML
-https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
-https://w3id.org/i40/sto#ISO_ASTM_52915

@@ -1,0 +1,32 @@
+
+Starting the application
+Cluster files folder: KMeansTransE2/clusters/
+Number of cluster: 6
+Number of edges: 249
+Average value of the matrix 0.356
+Weight M 0.356
+Intra edge weight theta 0.900
+Similarity matrix loaded!
+Computing measures .......
+
+************************************
+Clustering measures
+************************************
+ClusterFilename	Conductance
+cluster-0	0.478106448799
+cluster-1	0.475992842903
+cluster-2	0.758858138106
+cluster-3	0.590601469027
+cluster-4	0.611720449855
+cluster-5	0.613291041163
+************************************
+Max conductance:	0.758858138106
+Min conductance:	0.475992842903
+Average conductance:	0.588095064975
+Coverage:	0.433778421825
+Modularity:	0.225011085489
+Total cut:	867.845950000000
+Performance:	0.761753017682
+************************************
+
+Total time 0.011 secs

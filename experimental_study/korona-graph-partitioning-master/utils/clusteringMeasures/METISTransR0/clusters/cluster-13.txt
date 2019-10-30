@@ -1,0 +1,16 @@
+https://w3id.org/i40/sto#NIST_500-291
+https://w3id.org/i40/sto#IEC_61512
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#ISO_9000
+https://w3id.org/i40/sto#ISO_29101
+https://w3id.org/i40/sto#ISO_19440
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#IEC_61804
+https://w3id.org/i40/sto#IEC_81714
+https://w3id.org/i40/sto#RFC_793
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#IEC_60839_P7_S1_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S702_E2
+https://w3id.org/i40/sto#IEC_61310_P2_E2
+https://w3id.org/i40/sto#IEC_60381_P2_E1

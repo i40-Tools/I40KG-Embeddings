@@ -1,0 +1,4 @@
+https://w3id.org/i40/sto#ISO_15531-4x
+https://w3id.org/i40/sto#ISO_15531-2x
+https://w3id.org/i40/sto#ISO_15531-3x
+https://w3id.org/i40/sto#ISO_15531
