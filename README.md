@@ -25,7 +25,17 @@ This paper has been submitted for publication in *Some Journal*.
 
 ## Abstract
 
-> Paste here the abstract.
+> Industry 4.0 (I4.0) standards and standardization frameworks have been proposed with the goal of empowering interoperability in smart factories.
+These standards enable the description and interaction of the main components, systems, and processes inside of a smart factory.
+Due to the increasing number of I4.0 frameworks and standards, there is an increasing need in the industry for approaches that automatically analyze the landscape of I4.0 standards. 
+The fact that standardization frameworks classify standards according to their functions into layers and dimensions produces interoperability conflicts between standards.
+Describing the I4.0 landscape in knowledge graphs alleviates these interoperability problems.
+However, performing traditional graph analysis still requires significant domain knowledge.
+In this work, we study the relatedness among standards and frameworks based on community analysis to discover knowledge that helps us to cope with interoperability conflicts between standards.
+We use knowledge graph embeddings to create these communities automatically exploiting the meaning of the relationships among standards.
+In particular, we focus on the identification of groups of standards that are similar, i.e., communities of standards, and analyze their properties to uncover relations between them.
+We empirically evaluate our approach on a knowledge graph of I4.0 standards using the Trans family of embedding models for knowledge graph entities.
+Our results indicate the benefits of a knowledge-driven approach for unveiling novel properties of the I4.0 standards landscape.
 
 
 ## Software implementation
@@ -48,9 +58,9 @@ See the `README.md` files in each directory for a full description.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/pinga-lab/PAPER-REPO.git
+    git clone https://github.com/i40-Tools/I40KG-Embeddings
 
-or [download a zip archive](https://github.com/pinga-lab/PAPER-REPO/archive/master.zip).
+or [download a zip archive](https://github.com/i40-Tools/I40KG-Embeddings/archive/master.zip).
 
 A copy of the repository is also archived at *insert DOI here*
 
