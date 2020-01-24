@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#IEC_60839_P7_S6_E1
+https://w3id.org/i40/sto#IEC_60839_P7_S7_E1
+https://w3id.org/i40/sto#IEC_61010_P2_S012_E1
+https://w3id.org/i40/sto#DIN_EN_50159
+https://w3id.org/i40/sto#IEC_60286_P4_E3
+https://w3id.org/i40/sto#ETSI_LTN

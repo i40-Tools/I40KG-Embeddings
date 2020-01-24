@@ -1,0 +1,2 @@
+https://w3id.org/i40/sto#IEC_61400_P25_S3_E2
+https://w3id.org/i40/sto#ETSI_DECT

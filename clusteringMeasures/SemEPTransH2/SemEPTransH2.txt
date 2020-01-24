@@ -1,0 +1,39 @@
+
+Starting the application
+Cluster files folder: SemEPTransH2/clusters
+Number of cluster: 13
+Number of edges: 249
+Average value of the matrix 0.873
+Weight M 0.873
+Intra edge weight theta 0.900
+Similarity matrix loaded!
+Computing measures .......
+
+************************************
+Clustering measures
+************************************
+ClusterFilename	Conductance
+cluster-0	0.150132191815
+cluster-1	0.073353952562
+cluster-10	0.227802417253
+cluster-11	0.392849894192
+cluster-12	0.719047588446
+cluster-2	0.052734923972
+cluster-3	0.276624970206
+cluster-4	0.141638928145
+cluster-5	0.010733379183
+cluster-6	0.458742724590
+cluster-7	0.074368040596
+cluster-8	0.772138469088
+cluster-9	0.117859630330
+************************************
+Max conductance:	0.772138469088
+Min conductance:	0.010733379183
+Average conductance:	0.266771316183
+Coverage:	0.854758222428
+Modularity:	0.037127499515
+Total cut:	1947.250739999994
+Performance:	0.716510283953
+************************************
+
+Total time 0.015 secs

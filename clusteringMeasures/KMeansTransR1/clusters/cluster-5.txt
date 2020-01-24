@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#IEC_29190
+https://w3id.org/i40/sto#IEC_61850_P7_S3_E2
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#ISO_20922
+https://w3id.org/i40/sto#ISO_27000
+https://w3id.org/i40/sto#ISO_50001
+https://w3id.org/i40/sto#NIST_500-292
+https://w3id.org/i40/sto#RFC_768
+https://w3id.org/i40/sto#VDMA_24582

@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#IEC_61968_P3_E1
+https://w3id.org/i40/sto#IEC_61968_P3_E2
+https://w3id.org/i40/sto#IEC_61968_P4_E1
+https://w3id.org/i40/sto#IEC_61968_P6_E1
+https://w3id.org/i40/sto#IEC_61968_P8_E1
+https://w3id.org/i40/sto#IEC_61968_P9_E1
+https://w3id.org/i40/sto#IEC_61968_P9_E2

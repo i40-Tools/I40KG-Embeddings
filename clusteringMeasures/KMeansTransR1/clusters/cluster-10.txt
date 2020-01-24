@@ -1,0 +1,16 @@
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#IEC_60839_P5_S2_E2
+https://w3id.org/i40/sto#IEC_61850_P7_S3_E1
+https://w3id.org/i40/sto#IEC_62714
+https://w3id.org/i40/sto#IEC_81714
+https://w3id.org/i40/sto#ISA-95
+https://w3id.org/i40/sto#ISO_11898-1
+https://w3id.org/i40/sto#ISO_15746
+https://w3id.org/i40/sto#ISO_16739
+https://w3id.org/i40/sto#ISO_27031
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#RFC_7252
+https://w3id.org/i40/sto#SCOR
+https://w3id.org/i40/sto#VDI_VDE_2182

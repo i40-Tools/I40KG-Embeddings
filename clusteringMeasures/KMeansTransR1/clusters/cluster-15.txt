@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_27018
+https://w3id.org/i40/sto#IEC_29100
+https://w3id.org/i40/sto#IEC_61499
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_62279
+https://w3id.org/i40/sto#ISO_8062-4
+https://w3id.org/i40/sto#ISO_TS_14649-201
+https://w3id.org/i40/sto#RFC_7519
+https://w3id.org/i40/sto#SysML

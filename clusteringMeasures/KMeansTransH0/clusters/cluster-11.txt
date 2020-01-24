@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#ETSI_DECT
+https://w3id.org/i40/sto#ETSI_LTN
+https://w3id.org/i40/sto#IEC_60050
+https://w3id.org/i40/sto#IEC_60050_1984
+https://w3id.org/i40/sto#IEC_60050_1998
+https://w3id.org/i40/sto#IEC_60050_2013

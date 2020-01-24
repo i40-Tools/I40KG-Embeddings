@@ -1,0 +1,13 @@
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_62424
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#ISO_11783
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#ISO_27019
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#eClass

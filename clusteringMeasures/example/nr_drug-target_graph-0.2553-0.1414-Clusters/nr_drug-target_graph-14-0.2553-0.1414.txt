@@ -1,0 +1,6 @@
+D00094	hsa:6256	1.0000	Interactive
+D00094	hsa:6257	1.0000	Interactive
+D00094	hsa:5914	1.0000	Interactive
+D00094	hsa:5915	1.0000	Interactive
+D00094	hsa:5916	1.0000	Interactive
+D00348	hsa:5914	1.0000	Interactive

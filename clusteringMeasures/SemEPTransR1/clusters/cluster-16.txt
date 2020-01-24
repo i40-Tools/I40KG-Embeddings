@@ -1,0 +1,7 @@
+https://w3id.org/i40/sto#VDI_VDE_2182
+https://w3id.org/i40/sto#IEC_60870_P2_S1_E2
+https://w3id.org/i40/sto#IEC_60255_P27_E2
+https://w3id.org/i40/sto#IEC_61690_P1_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#IEC_60839_P7_S4_E1

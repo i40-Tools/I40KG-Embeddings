@@ -1,0 +1,16 @@
+https://w3id.org/i40/sto#ASME_Y1441
+https://w3id.org/i40/sto#BPEL
+https://w3id.org/i40/sto#DIN_EN_ISO_IEC_17025
+https://w3id.org/i40/sto#IEC_60839_P7_S3_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S502_E1
+https://w3id.org/i40/sto#IEC_60870_P6_S802_E3
+https://w3id.org/i40/sto#IEC_61513
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_61850_P10_E1
+https://w3id.org/i40/sto#IEC_61987_X
+https://w3id.org/i40/sto#IEC_62424
+https://w3id.org/i40/sto#ISO_1101
+https://w3id.org/i40/sto#NIST_800-144
+https://w3id.org/i40/sto#RFC_1122
+https://w3id.org/i40/sto#RFC_2818
+https://w3id.org/i40/sto#RFC_6750

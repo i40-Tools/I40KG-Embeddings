@@ -1,0 +1,2 @@
+D05341	hsa:3174	1.0000	Interactive
+D01161	hsa:2100	1.0000	Interactive

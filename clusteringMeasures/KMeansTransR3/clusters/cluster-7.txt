@@ -1,0 +1,6 @@
+https://w3id.org/i40/sto#ENISA_CloudComputing
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#IEC_62794
+https://w3id.org/i40/sto#ISO_29002
+https://w3id.org/i40/sto#ODRL

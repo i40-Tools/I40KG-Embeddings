@@ -1,0 +1,14 @@
+https://w3id.org/i40/sto#DIN_SPEC_16592
+https://w3id.org/i40/sto#IEC_27031
+https://w3id.org/i40/sto#IEC_61804_P5
+https://w3id.org/i40/sto#IEC_61810_P2_E3
+https://w3id.org/i40/sto#IEC_61850
+https://w3id.org/i40/sto#IEC_61850_P7_S2_E1
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E1
+https://w3id.org/i40/sto#IEC_62890
+https://w3id.org/i40/sto#ISO_14306
+https://w3id.org/i40/sto#ISO_16792
+https://w3id.org/i40/sto#ISO_5459
+https://w3id.org/i40/sto#ISO_TS_14649-201
+https://w3id.org/i40/sto#OMG_DDS
+https://w3id.org/i40/sto#RFC_793

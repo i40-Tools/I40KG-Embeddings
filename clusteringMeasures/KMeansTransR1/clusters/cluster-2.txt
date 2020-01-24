@@ -1,0 +1,11 @@
+https://w3id.org/i40/sto#DIN_EN_ISO_13849
+https://w3id.org/i40/sto#DIN_SPEC_16592
+https://w3id.org/i40/sto#IEC_29182_P1
+https://w3id.org/i40/sto#IEC_61850_P7_S4_E1
+https://w3id.org/i40/sto#ISO_19439
+https://w3id.org/i40/sto#ISO_22400
+https://w3id.org/i40/sto#ISO_27001
+https://w3id.org/i40/sto#ISO_29101
+https://w3id.org/i40/sto#ModBus
+https://w3id.org/i40/sto#NIST_500-293
+https://w3id.org/i40/sto#VDE_2182

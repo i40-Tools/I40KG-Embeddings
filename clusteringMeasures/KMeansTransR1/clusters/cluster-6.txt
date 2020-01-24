@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#IEC_61131
+https://w3id.org/i40/sto#IEC_61804_P4
+https://w3id.org/i40/sto#IEC_61810_P2_E3
+https://w3id.org/i40/sto#IEC_61987_X
+https://w3id.org/i40/sto#IEC_62794
+https://w3id.org/i40/sto#ISO_1302
+https://w3id.org/i40/sto#ISO_13485
+https://w3id.org/i40/sto#ISO_20140_P1
+https://w3id.org/i40/sto#ODRL

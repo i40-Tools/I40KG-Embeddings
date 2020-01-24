@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#IEC_60870_P6_S2_1995
+https://w3id.org/i40/sto#IEC_61360
+https://w3id.org/i40/sto#IEC_61850_P7_S3_E2
+https://w3id.org/i40/sto#ISO_10303
+https://w3id.org/i40/sto#ISO_13849
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#NIST_800-146
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#VDE_2182
+https://w3id.org/i40/sto#eClass

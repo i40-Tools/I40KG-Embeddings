@@ -1,0 +1,2 @@
+D01132	hsa:6096	1.0000	Interactive
+D01441	hsa:6095	1.0000	Interactive

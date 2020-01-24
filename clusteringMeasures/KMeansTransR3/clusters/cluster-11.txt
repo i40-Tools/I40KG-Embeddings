@@ -1,0 +1,10 @@
+https://w3id.org/i40/sto#BPMN
+https://w3id.org/i40/sto#IEC_61512
+https://w3id.org/i40/sto#IEC_61850_P4_E1
+https://w3id.org/i40/sto#IEC_61850_P7_S3_E2
+https://w3id.org/i40/sto#IEC_62264
+https://w3id.org/i40/sto#ISO_15704
+https://w3id.org/i40/sto#ISO_22745-11
+https://w3id.org/i40/sto#ISO_29100
+https://w3id.org/i40/sto#RFC_2616
+https://w3id.org/i40/sto#RFC_768

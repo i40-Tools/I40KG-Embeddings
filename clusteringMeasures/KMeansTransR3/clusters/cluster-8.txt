@@ -1,0 +1,9 @@
+https://w3id.org/i40/sto#B2MML
+https://w3id.org/i40/sto#IEC_61784
+https://w3id.org/i40/sto#IEC_61804_P3
+https://w3id.org/i40/sto#IEC_61987_X
+https://w3id.org/i40/sto#IEC_62061
+https://w3id.org/i40/sto#IEC_62832
+https://w3id.org/i40/sto#ISO_13374
+https://w3id.org/i40/sto#NIST_500-291
+https://w3id.org/i40/sto#RFC_2818
