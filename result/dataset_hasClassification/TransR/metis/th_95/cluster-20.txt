@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61850_P4_E1
-https://w3id.org/i40/sto#ISO_15531-3x
-https://w3id.org/i40/sto#ISO_15531-4x
-https://w3id.org/i40/sto#ISO_61508
-https://w3id.org/i40/sto#NIST_500-291
-https://w3id.org/i40/sto#B2MML
-https://w3id.org/i40/sto#ISO_15531-2x
-https://w3id.org/i40/sto#IEC_61850_P7_S3_E2
-https://w3id.org/i40/sto#IEC_61690_P2_E1

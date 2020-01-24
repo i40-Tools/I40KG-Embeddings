@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61850_P7_S3_E1
-https://w3id.org/i40/sto#MathML
-https://w3id.org/i40/sto#ISO_15926
-https://w3id.org/i40/sto#ISO_9594-8
-https://w3id.org/i40/sto#IEC_61987_X
-https://w3id.org/i40/sto#IEC_61334_P5_S1_E2
-https://w3id.org/i40/sto#ISO_13849
-https://w3id.org/i40/sto#IEC_61010_P2_S202_E1

@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_60381_P2_E1
-https://w3id.org/i40/sto#IEC_60027_P6_E1
-https://w3id.org/i40/sto#RFC_7519
-https://w3id.org/i40/sto#IEC_61968_P4_E2
-https://w3id.org/i40/sto#IEEE_1377-2012
-https://w3id.org/i40/sto#ETSI_LTN
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#W3C_DCAT

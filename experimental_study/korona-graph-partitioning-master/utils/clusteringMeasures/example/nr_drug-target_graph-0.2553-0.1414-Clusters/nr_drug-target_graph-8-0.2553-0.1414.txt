@@ -1,2 +1,0 @@
-D00094	hsa:6097	1.0000	Interactive
-D00094	hsa:6096	1.0000	Interactive

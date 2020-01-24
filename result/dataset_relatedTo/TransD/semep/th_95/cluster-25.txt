@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#IEEE_1686
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#ISO_13584
-https://w3id.org/i40/sto#IEC_60870_P2_S2_E1
-https://w3id.org/i40/sto#IEC_60050_2013
-https://w3id.org/i40/sto#RFC_2818
-https://w3id.org/i40/sto#IEC_62453

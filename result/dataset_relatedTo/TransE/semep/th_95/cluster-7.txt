@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#NIST_800-144
-https://w3id.org/i40/sto#RFC_7540
-https://w3id.org/i40/sto#IEC_60870_P6_S2_E1
-https://w3id.org/i40/sto#IEC_60286_P5_E3
-https://w3id.org/i40/sto#ISO_9594-8
-https://w3id.org/i40/sto#eClass
-https://w3id.org/i40/sto#IEC_61691_P6_E1
-https://w3id.org/i40/sto#ETSI_DECT
-https://w3id.org/i40/sto#ISO_13584

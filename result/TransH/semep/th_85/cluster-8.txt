@@ -1,3 +1,0 @@
-https://w3id.org/i40/sto#RFC_7643
-https://w3id.org/i40/sto#RFC_7644
-https://w3id.org/i40/sto#RFC_7642

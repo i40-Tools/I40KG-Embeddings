@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61970_P301_E6
-https://w3id.org/i40/sto#NISTIR_8107
-https://w3id.org/i40/sto#ISO_20140_P1
-https://w3id.org/i40/sto#IEC_61334_P4_S41_E1
-https://w3id.org/i40/sto#IEC_61968_P4_E2
-https://w3id.org/i40/sto#ISO_18629
-https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
-https://w3id.org/i40/sto#IEC_60870_P6_S501_1995
-https://w3id.org/i40/sto#VDI_VDE_2182

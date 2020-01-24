@@ -1,2 +1,0 @@
-D00094	hsa:6258	1.0000	Interactive
-D00316	hsa:6258	1.0000	Interactive

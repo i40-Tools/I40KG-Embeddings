@@ -1,5 +1,0 @@
-D02367	hsa:5241	1.0000	Interactive
-D00066	hsa:5241	1.0000	Interactive
-D00182	hsa:5241	1.0000	Interactive
-D00950	hsa:5241	1.0000	Interactive
-D00954	hsa:5241	1.0000	Interactive

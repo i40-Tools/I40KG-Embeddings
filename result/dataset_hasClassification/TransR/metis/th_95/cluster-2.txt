@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#RFC_793
-https://w3id.org/i40/sto#IEC_61968_P9_E1
-https://w3id.org/i40/sto#NISTIR_8107
-https://w3id.org/i40/sto#VDMA_24582
-https://w3id.org/i40/sto#IEC_60381_P2_E1
-https://w3id.org/i40/sto#IEC_61506
-https://w3id.org/i40/sto#ISO_42010
-https://w3id.org/i40/sto#IEC_29182_P1
-https://w3id.org/i40/sto#IEC_29182-1

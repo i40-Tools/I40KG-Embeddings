@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_62656
-https://w3id.org/i40/sto#DIN_EN_50128
-https://w3id.org/i40/sto#IEC_60255_P149_E1
-https://w3id.org/i40/sto#IEC_60286_P5_E3
-https://w3id.org/i40/sto#IEC_60286_P3_E5
-https://w3id.org/i40/sto#NISTIR_8062

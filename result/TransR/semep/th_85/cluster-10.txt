@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_61334_P4_S33_E1
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#IEC_61310_P1_E2
-https://w3id.org/i40/sto#ETSI_LTN
-https://w3id.org/i40/sto#IEC_60286_P4_E3
-https://w3id.org/i40/sto#IEC_61010_P2_S012_E1

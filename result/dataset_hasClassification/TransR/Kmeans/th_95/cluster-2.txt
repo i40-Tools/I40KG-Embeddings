@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#BPEL
-https://w3id.org/i40/sto#IEC_61968_P9_E1
-https://w3id.org/i40/sto#ISO_22745-11
-https://w3id.org/i40/sto#IEC_62656
-https://w3id.org/i40/sto#IEEE_1686
-https://w3id.org/i40/sto#BPMN
-https://w3id.org/i40/sto#IEC_61334_P4_S512_E1
-https://w3id.org/i40/sto#ISO_18828-2
-https://w3id.org/i40/sto#IEC_61968_P3_E1

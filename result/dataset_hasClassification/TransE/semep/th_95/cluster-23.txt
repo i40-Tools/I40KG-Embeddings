@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#IEC_62264
-https://w3id.org/i40/sto#ASAM_ODS
-https://w3id.org/i40/sto#IEC_61010_P2_S201_E2
-https://w3id.org/i40/sto#IEC_60870_P2_S2_E1
-https://w3id.org/i40/sto#ISO_20547-4
-https://w3id.org/i40/sto#ISO_1302
-https://w3id.org/i40/sto#IEC_61968_P8_E1

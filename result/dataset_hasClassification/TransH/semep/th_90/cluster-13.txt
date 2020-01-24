@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61160_E2
-https://w3id.org/i40/sto#IEC_61000_P6_S2_E3
-https://w3id.org/i40/sto#IEC_62279
-https://w3id.org/i40/sto#IEC_61810_P7_E2
-https://w3id.org/i40/sto#QIF
-https://w3id.org/i40/sto#ISO_29190
-https://w3id.org/i40/sto#ODRL
-https://w3id.org/i40/sto#Thread
-https://w3id.org/i40/sto#IEC_60255_P149_E1

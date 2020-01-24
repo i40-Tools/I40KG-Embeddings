@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#ISO_27018
-https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
-https://w3id.org/i40/sto#IEC_61970_P301_E6_RLV
-https://w3id.org/i40/sto#ISO_9594-8
-https://w3id.org/i40/sto#ISO_15531-4x
-https://w3id.org/i40/sto#ASME_Y1441
-https://w3id.org/i40/sto#IEC_29161
-https://w3id.org/i40/sto#eClass
-https://w3id.org/i40/sto#ODRL

@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#DIN_EN_50155
-https://w3id.org/i40/sto#ODRL
-https://w3id.org/i40/sto#ISO_29100
-https://w3id.org/i40/sto#ISO_13374
-https://w3id.org/i40/sto#MathML
-https://w3id.org/i40/sto#IEC_61691_P6_E1
-https://w3id.org/i40/sto#ISO_19440
-https://w3id.org/i40/sto#ISO_13584

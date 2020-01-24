@@ -1,1 +1,0 @@
-D00211	hsa:8856	1.0000	Interactive

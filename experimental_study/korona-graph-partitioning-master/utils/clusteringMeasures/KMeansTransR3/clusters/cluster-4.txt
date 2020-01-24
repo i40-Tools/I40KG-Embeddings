@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61360
-https://w3id.org/i40/sto#IEC_61850_P4_E1
-https://w3id.org/i40/sto#ISO_13485
-https://w3id.org/i40/sto#ISO_16739
-https://w3id.org/i40/sto#IEC_61850_P10_E2
-https://w3id.org/i40/sto#BPMN
-https://w3id.org/i40/sto#IEC_61131
-https://w3id.org/i40/sto#IEC_61804_P4

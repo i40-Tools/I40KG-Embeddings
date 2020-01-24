@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#DIN_EN_50128
-https://w3id.org/i40/sto#IEC_61334_P4_S512_E1
-https://w3id.org/i40/sto#IEC_61334_P3_S22_E1
-https://w3id.org/i40/sto#IEC_61968_P8_E1
-https://w3id.org/i40/sto#IEC_61334_P4_S33_E1
-https://w3id.org/i40/sto#IEC_61334_P6_E1
-https://w3id.org/i40/sto#IEC_61334
-https://w3id.org/i40/sto#IEC_61850_P7_S420_E1

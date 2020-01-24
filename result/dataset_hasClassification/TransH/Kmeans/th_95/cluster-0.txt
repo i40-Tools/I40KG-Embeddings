@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#QIF
-https://w3id.org/i40/sto#IEC_15459
-https://w3id.org/i40/sto#IEC_61334
-https://w3id.org/i40/sto#ISO_26262
-https://w3id.org/i40/sto#IEC_61690_P2_E1
-https://w3id.org/i40/sto#IEC_60204_P11_E1

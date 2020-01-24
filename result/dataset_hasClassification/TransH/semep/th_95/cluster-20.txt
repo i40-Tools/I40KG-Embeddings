@@ -1,2 +1,0 @@
-https://w3id.org/i40/sto#ISO_9594-8
-https://w3id.org/i40/sto#DIN_SPEC_92222

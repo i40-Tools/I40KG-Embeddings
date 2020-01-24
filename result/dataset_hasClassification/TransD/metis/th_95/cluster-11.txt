@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_61690_P1_E1
-https://w3id.org/i40/sto#IEC_29190
-https://w3id.org/i40/sto#NIST_800-146
-https://w3id.org/i40/sto#NISTIR_8107
-https://w3id.org/i40/sto#RFC_1122
-https://w3id.org/i40/sto#ISO_19941
-https://w3id.org/i40/sto#IEC_61970_P301_E6
-https://w3id.org/i40/sto#IEC_61512
-https://w3id.org/i40/sto#IEC_60382_E2

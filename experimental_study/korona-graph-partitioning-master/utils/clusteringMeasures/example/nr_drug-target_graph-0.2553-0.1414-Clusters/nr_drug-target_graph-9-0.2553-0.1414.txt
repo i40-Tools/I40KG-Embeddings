@@ -1,6 +1,0 @@
-D00040	hsa:6095	1.0000	Interactive
-D00129	hsa:7421	1.0000	Interactive
-D00188	hsa:7421	1.0000	Interactive
-D00187	hsa:7421	1.0000	Interactive
-D00299	hsa:7421	1.0000	Interactive
-D00930	hsa:7421	1.0000	Interactive

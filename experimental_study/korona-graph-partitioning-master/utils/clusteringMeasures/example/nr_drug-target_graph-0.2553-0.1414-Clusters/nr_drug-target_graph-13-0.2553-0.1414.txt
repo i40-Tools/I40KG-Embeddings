@@ -1,6 +1,0 @@
-D02367	hsa:2099	1.0000	Interactive
-D00066	hsa:2099	1.0000	Interactive
-D00327	hsa:2099	1.0000	Interactive
-D00950	hsa:2099	1.0000	Interactive
-D00954	hsa:2099	1.0000	Interactive
-D01294	hsa:2099	1.0000	Interactive

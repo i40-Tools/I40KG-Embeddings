@@ -1,2 +1,0 @@
-https://w3id.org/i40/sto#IEC_62061
-https://w3id.org/i40/sto#IEC_62264

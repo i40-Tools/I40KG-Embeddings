@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#DIN_EN_61511
-https://w3id.org/i40/sto#IEC_81714
-https://w3id.org/i40/sto#SCOR
-https://w3id.org/i40/sto#NIST_500-292
-https://w3id.org/i40/sto#IEC_61512
-https://w3id.org/i40/sto#IEC_61850_P4_E2

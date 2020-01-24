@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_62337
-https://w3id.org/i40/sto#IEC_60381_P1_E2
-https://w3id.org/i40/sto#W3C_SPARQL
-https://w3id.org/i40/sto#IEC_60255_P149_E1
-https://w3id.org/i40/sto#RFC_1122
-https://w3id.org/i40/sto#NIST_500-292

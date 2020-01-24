@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_60073_E6
-https://w3id.org/i40/sto#DIN_SPEC_27070
-https://w3id.org/i40/sto#B2MML
-https://w3id.org/i40/sto#ISO_22745-11
-https://w3id.org/i40/sto#IEC_60050_1984
-https://w3id.org/i40/sto#ISO_29190
-https://w3id.org/i40/sto#ISO_11404
-https://w3id.org/i40/sto#IEC_62279
-https://w3id.org/i40/sto#ISO_18828-2

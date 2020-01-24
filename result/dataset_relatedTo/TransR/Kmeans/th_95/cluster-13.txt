@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#DIN_SPEC_27070
-https://w3id.org/i40/sto#DIN_SPEC_16592
-https://w3id.org/i40/sto#ISO_PAS_17506
-https://w3id.org/i40/sto#IEC_61511
-https://w3id.org/i40/sto#IEC_61970_P452_E1
-https://w3id.org/i40/sto#IEC_29161
-https://w3id.org/i40/sto#IEC_62837

@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#NIST_800-146
-https://w3id.org/i40/sto#QIF
-https://w3id.org/i40/sto#IEC_61158
-https://w3id.org/i40/sto#IEC_62541
-https://w3id.org/i40/sto#IEC_62453
-https://w3id.org/i40/sto#DIN_EN_50128
-https://w3id.org/i40/sto#ISA_62443
-https://w3id.org/i40/sto#ISO_29134
-https://w3id.org/i40/sto#RFC_793

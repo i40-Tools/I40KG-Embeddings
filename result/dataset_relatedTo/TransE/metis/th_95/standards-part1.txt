@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_62337
-https://w3id.org/i40/sto#IEC_62264_P6
-https://w3id.org/i40/sto#IEC_29100
-https://w3id.org/i40/sto#ISO_16739
-https://w3id.org/i40/sto#IEC_61400_P25_S6_E2
-https://w3id.org/i40/sto#IEC_62837
-https://w3id.org/i40/sto#ASME_Y1441
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#RFC_7642

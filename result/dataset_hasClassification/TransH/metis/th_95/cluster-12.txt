@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61970_P1_E1
-https://w3id.org/i40/sto#VDMA_24582
-https://w3id.org/i40/sto#RFC_5246
-https://w3id.org/i40/sto#ENISA_CloudComputing
-https://w3id.org/i40/sto#IEC_62794
-https://w3id.org/i40/sto#ETSI_LTN
-https://w3id.org/i40/sto#ISO_24760
-https://w3id.org/i40/sto#IEC_61804_P5

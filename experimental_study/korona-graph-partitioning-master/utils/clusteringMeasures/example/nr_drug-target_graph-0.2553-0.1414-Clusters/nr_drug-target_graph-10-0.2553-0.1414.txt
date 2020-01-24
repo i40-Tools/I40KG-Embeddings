@@ -1,2 +1,0 @@
-D00143	hsa:8856	1.0000	Interactive
-D00163	hsa:9971	1.0000	Interactive

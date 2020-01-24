@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#RFC_6750
-https://w3id.org/i40/sto#IEC_61810_P7_E2
-https://w3id.org/i40/sto#IEC_62794
-https://w3id.org/i40/sto#ODRL
-https://w3id.org/i40/sto#IEC_61804_P4
-https://w3id.org/i40/sto#ISO_15408
-https://w3id.org/i40/sto#ENISA_CloudComputing
-https://w3id.org/i40/sto#ISO_29100
-https://w3id.org/i40/sto#IEC_61131

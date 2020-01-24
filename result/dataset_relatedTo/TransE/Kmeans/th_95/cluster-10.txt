@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#ISO_29134
-https://w3id.org/i40/sto#IEC_60870_P6_S503_E3
-https://w3id.org/i40/sto#IEC_61850_P4_E1
-https://w3id.org/i40/sto#IEC_62890
-https://w3id.org/i40/sto#IEC_60050
-https://w3id.org/i40/sto#DTLS

@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#ISO_27017
-https://w3id.org/i40/sto#IEC_61850_P10_E1
-https://w3id.org/i40/sto#IEC_27031
-https://w3id.org/i40/sto#IEC_61691_P6_E1
-https://w3id.org/i40/sto#IEC_60381_P1_E2
-https://w3id.org/i40/sto#IEC_61400_P25_S3_E2
-https://w3id.org/i40/sto#IEC_62424
-https://w3id.org/i40/sto#OAGIS
-https://w3id.org/i40/sto#IEC_61850_P7_S4_E2

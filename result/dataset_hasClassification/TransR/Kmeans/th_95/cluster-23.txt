@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#ETSI_DECT
-https://w3id.org/i40/sto#IEC_60364
-https://w3id.org/i40/sto#DIN_EN_ISO_13849
-https://w3id.org/i40/sto#DIN_SPEC_16592
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#IEC_62541

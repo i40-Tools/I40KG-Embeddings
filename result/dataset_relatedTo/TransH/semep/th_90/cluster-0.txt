@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#ISO_20140_P1
-https://w3id.org/i40/sto#IEC_61690_P1_E1
-https://w3id.org/i40/sto#IEC_29100
-https://w3id.org/i40/sto#ISO_15531-4x
-https://w3id.org/i40/sto#ISO_15531
-https://w3id.org/i40/sto#NIST_800-144
-https://w3id.org/i40/sto#ISO_29100

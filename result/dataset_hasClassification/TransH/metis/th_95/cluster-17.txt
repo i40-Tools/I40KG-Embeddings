@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61400_P25_S5_E2
-https://w3id.org/i40/sto#IEC_60870_P2_S1_E2
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#IEC_60870_P6_S502_E1
-https://w3id.org/i40/sto#IEC_60839_P7_S5_E1
-https://w3id.org/i40/sto#IEC_60870_P5_S4_E1
-https://w3id.org/i40/sto#IEC_61970_P301_E4
-https://w3id.org/i40/sto#DIN_SPEC_16593_P1

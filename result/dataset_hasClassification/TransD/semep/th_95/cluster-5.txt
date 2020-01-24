@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#ISO_20546
-https://w3id.org/i40/sto#ISO_29115
-https://w3id.org/i40/sto#NIST_800-144
-https://w3id.org/i40/sto#ISO_5459
-https://w3id.org/i40/sto#IEC_62890
-https://w3id.org/i40/sto#IEC_61508
-https://w3id.org/i40/sto#ISO_22400
-https://w3id.org/i40/sto#IEC_61010_P2_S201_E2

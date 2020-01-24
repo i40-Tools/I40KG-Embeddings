@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_60381_P2_E1
-https://w3id.org/i40/sto#DIN_ISO_14638
-https://w3id.org/i40/sto#IEC_60050_1984
-https://w3id.org/i40/sto#ISO_27001
-https://w3id.org/i40/sto#ETSI_LTN
-https://w3id.org/i40/sto#MTConnect
-https://w3id.org/i40/sto#IEC_62591
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E2
-https://w3id.org/i40/sto#ISO_19941

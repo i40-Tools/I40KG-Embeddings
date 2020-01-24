@@ -1,8 +1,0 @@
-https://w3id.org/i40/sto#IEC_61690_P1_E1
-https://w3id.org/i40/sto#IEEE_1686
-https://w3id.org/i40/sto#VDI_VDE_2182
-https://w3id.org/i40/sto#ISO_8062-4
-https://w3id.org/i40/sto#RFC_7644
-https://w3id.org/i40/sto#IEC_60839_P7_S7_E1
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#IEC_60839_P7_S4_E1

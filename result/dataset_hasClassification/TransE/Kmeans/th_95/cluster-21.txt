@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_61334_P4_S42_E1
-https://w3id.org/i40/sto#IEC_61968_P3_E1
-https://w3id.org/i40/sto#DIN_SPEC_16593_P1
-https://w3id.org/i40/sto#NIST_500-292
-https://w3id.org/i40/sto#IEC_61334_P4_S41_E1
-https://w3id.org/i40/sto#OMG_DDS

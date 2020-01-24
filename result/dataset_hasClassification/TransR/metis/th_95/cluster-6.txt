@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#ebXML
-https://w3id.org/i40/sto#MTConnect
-https://w3id.org/i40/sto#IEC_61310_P2_E2
-https://w3id.org/i40/sto#IEC_62591
-https://w3id.org/i40/sto#SysML
-https://w3id.org/i40/sto#ISO_19770
-https://w3id.org/i40/sto#DIN_SPEC_27070
-https://w3id.org/i40/sto#IEC_62837
-https://w3id.org/i40/sto#ISO_15926

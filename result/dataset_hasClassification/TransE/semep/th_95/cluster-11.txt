@@ -1,6 +1,0 @@
-https://w3id.org/i40/sto#IEC_61400_P25_S2_E2
-https://w3id.org/i40/sto#IEC_61850_P7_S1_E1
-https://w3id.org/i40/sto#IEC_60050_1984
-https://w3id.org/i40/sto#IEC_60204_P11_E1
-https://w3id.org/i40/sto#ASME_Y1441
-https://w3id.org/i40/sto#DIN_EN_50129

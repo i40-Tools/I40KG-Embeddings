@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#IEC_61970_P452_E3
-https://w3id.org/i40/sto#ISO_29190
-https://w3id.org/i40/sto#DIN_SPEC_92222
-https://w3id.org/i40/sto#DIN_EN_50155
-https://w3id.org/i40/sto#ISO_9594-8
-https://w3id.org/i40/sto#RFC_7252
-https://w3id.org/i40/sto#IEC_62443

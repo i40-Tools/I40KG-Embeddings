@@ -1,7 +1,0 @@
-https://w3id.org/i40/sto#NIST_500-292
-https://w3id.org/i40/sto#IEC_61970_P301_E6
-https://w3id.org/i40/sto#BPMN
-https://w3id.org/i40/sto#IEC_61850_P4_E1
-https://w3id.org/i40/sto#RFC_7643
-https://w3id.org/i40/sto#DIN_77005_P1
-https://w3id.org/i40/sto#IEC_61334_P4_S42_E1

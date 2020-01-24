@@ -1,3 +1,0 @@
-https://w3id.org/i40/sto#IEC_62061
-https://w3id.org/i40/sto#IEC_61513
-https://w3id.org/i40/sto#DIN_EN_50129

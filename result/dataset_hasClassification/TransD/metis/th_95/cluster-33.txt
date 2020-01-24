@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_60870_P5_S103_E1
-https://w3id.org/i40/sto#IEC_60870_P6_S503_2014
-https://w3id.org/i40/sto#ISO_PAS_17506
-https://w3id.org/i40/sto#ENISA_CloudComputing
-https://w3id.org/i40/sto#ISO_10303
-https://w3id.org/i40/sto#IEC_61850_P4_E1
-https://w3id.org/i40/sto#ISO_22400
-https://w3id.org/i40/sto#IEC_61010_P2_S202_E1
-https://w3id.org/i40/sto#IEC_60255_P149_E1

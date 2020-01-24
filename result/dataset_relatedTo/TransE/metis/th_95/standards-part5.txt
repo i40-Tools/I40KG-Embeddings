@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#ISO_19440
-https://w3id.org/i40/sto#IEC_61690_P1_E1
-https://w3id.org/i40/sto#DIN_77005_P1
-https://w3id.org/i40/sto#ISO_TS_14649-201
-https://w3id.org/i40/sto#UDP
-https://w3id.org/i40/sto#IEC_60382
-https://w3id.org/i40/sto#ISO_27031
-https://w3id.org/i40/sto#IEC_29182-1
-https://w3id.org/i40/sto#ISO_29115

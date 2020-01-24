@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_11404
-https://w3id.org/i40/sto#VDI_VDE_2182
-https://w3id.org/i40/sto#IEC_61334_P4_S42_E1
-https://w3id.org/i40/sto#IEC_61334_P4_S33_E1
-https://w3id.org/i40/sto#IEC_61968_P8_E1
-https://w3id.org/i40/sto#DIN_EN_50155
-https://w3id.org/i40/sto#ISO_20922
-https://w3id.org/i40/sto#IEC_60050
-https://w3id.org/i40/sto#IEC_29115

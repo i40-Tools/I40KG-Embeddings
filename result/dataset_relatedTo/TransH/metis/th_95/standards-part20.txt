@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_62424
-https://w3id.org/i40/sto#IEC_62061
-https://w3id.org/i40/sto#ModBus
-https://w3id.org/i40/sto#ISO_19439
-https://w3id.org/i40/sto#IEC_81714
-https://w3id.org/i40/sto#IEC_61310_P3_E2
-https://w3id.org/i40/sto#IEC_60255_P27_E2
-https://w3id.org/i40/sto#IEEE_P1828
-https://w3id.org/i40/sto#DIN_EN_50159

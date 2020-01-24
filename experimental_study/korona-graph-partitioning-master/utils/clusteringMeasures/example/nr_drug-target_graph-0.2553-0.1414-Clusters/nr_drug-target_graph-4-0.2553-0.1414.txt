@@ -1,1 +1,0 @@
-D01132	hsa:6258	1.0000	Interactive

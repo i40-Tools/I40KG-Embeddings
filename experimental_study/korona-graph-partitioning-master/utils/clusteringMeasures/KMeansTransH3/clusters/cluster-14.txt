@@ -1,3 +1,0 @@
-https://w3id.org/i40/sto#IEC_60286_P3_E5
-https://w3id.org/i40/sto#IEC_60286_P4_E3
-https://w3id.org/i40/sto#IEC_60286_P5_E3

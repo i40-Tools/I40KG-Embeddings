@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#eClass
-https://w3id.org/i40/sto#IEC_60050_2013
-https://w3id.org/i40/sto#ISO_29100
-https://w3id.org/i40/sto#ISO_20922
-https://w3id.org/i40/sto#IEC_60839_P7_S7_E1
-https://w3id.org/i40/sto#IEC_29161
-https://w3id.org/i40/sto#ISO_29134
-https://w3id.org/i40/sto#W3C_RIF
-https://w3id.org/i40/sto#W3C_OWL

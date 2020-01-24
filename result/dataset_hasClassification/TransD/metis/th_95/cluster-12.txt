@@ -1,9 +1,0 @@
-https://w3id.org/i40/sto#IEC_60255_2010
-https://w3id.org/i40/sto#IEC_61499
-https://w3id.org/i40/sto#IEC_60839_P7_S4_E1
-https://w3id.org/i40/sto#IEC_62794
-https://w3id.org/i40/sto#IEC_61334_P4_S511_E1
-https://w3id.org/i40/sto#DTLS
-https://w3id.org/i40/sto#ISO_27018
-https://w3id.org/i40/sto#ISO_20546
-https://w3id.org/i40/sto#IEC_61131
