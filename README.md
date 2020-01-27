@@ -80,18 +80,17 @@ The libraries indicated in the above file must be installed using the pip or the
 
 ## Reproducing the results
 
-Running an example
-===================
+Running an example:
 
-python3 experiment.py
+    python3 experiment.py
 
-python3 density_plot_standard_similarity.py
+    python3 density_plot_standard_similarity.py
 
-python3 clustering_measures/execute_metrics.py
+    python3 clustering_measures/execute_metrics.py
 
-python3 evaluation_metric.py
+    python3 evaluation_metric.py
 
-python3 community_analysis.py
+    python3 community_analysis.py
 
 
 ## License
