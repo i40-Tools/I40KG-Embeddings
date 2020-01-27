@@ -1,0 +1,11 @@
+pip install glob2
+pip install scipy
+pip install numpy
+pip install pandas
+pip install json
+pip install scikit-learn
+pip install rdflib
+pip install pytest-shutil
+pip install matplotlib
+
+https://hub.docker.com/r/kemele/metis
